@@ -16,60 +16,60 @@ start_time = time.time()
 #The data that will be written to the json file at the end
 data = []
 
-for year in range(2003,2020):
-    #The first season logged in the OSSCA schedules is 2003 and the curernt schedule is 2019
+year = 2019
+#The first season logged in the OSSCA schedules is 2003 and the curernt schedule is 2019
 
-    #For each year, create a table with the year set as the year being recorded and a blank array for the schedules to be added
-    #Used as a kind of visual progress tracker since this program takes ages to run
-    print('\n ID' + str(year) + '\n')
-    print("--- %s seconds ---" % (time.time() - start_time))
-    print('\n')
+#For each year, create a table with the year set as the year being recorded and a blank array for the schedules to be added
+#Used as a kind of visual progress tracker since this program takes ages to run
+print('\n ID' + str(year) + '\n')
+print("--- %s seconds ---" % (time.time() - start_time))
+print('\n')
 
-    #Create table for each year with the year and an array to hold all the schedules from all schools for that year
-    yearData = {'year': year, 'schoolSchedules': []}
+#Create table for each year with the year and an array to hold all the schedules from all schools for that year
+yearData = {'year': year, 'schoolSchedules': []}
 
-    for x in range(1, 2960):
-        #The highest ID in the OSSCA list is 2959 and the lowest is 1
+for x in range(1, 2960):
+    #The highest ID in the OSSCA list is 2959 and the lowest is 1
 
-        #Another visual progress tracker
-        print(x)
+    #Another visual progress tracker
+    print(x)
 
-        #Create a table for each school with their id, name, and an array to hold their games
-        schoolData = {'id': x, 'name': '', 'schedule': []}
+    #Create a table for each school with their id, name, and an array to hold their games
+    schoolData = {'id': x, 'name': '', 'schedule': []}
 
-        #OSSCA link to pull web pages holding schedules, get data, and parse with BeautifulSoup
-        url = "http://ossca.org/schedules.asp?qtype=teamschedule&season=" + str(year) + "&B_G=B&team=" + str(x)
-        response = requests.get(url)
-        soup = BeautifulSoup(response.text, "html.parser")
+    #OSSCA link to pull web pages holding schedules, get data, and parse with BeautifulSoup
+    url = "http://ossca.org/schedules.asp?qtype=teamschedule&season=" + str(year) + "&B_G=B&team=" + str(x)
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, "html.parser")
 
-        #Get all the tables. The school's name is located in the second table and the games are located in the third table
-        table = soup.find("div", {"id": "mainNormal2"}).find_all('table')
-        schoolData['name'] = table[1].tr.td.b.text
-        #You have to identify the games by grabbing table rows with a bgcolor attribute because terrible site design :(
-        games = table[2].find_all('tr', {'bgcolor': 'e1dec2'})
+    #Get all the tables. The school's name is located in the second table and the games are located in the third table
+    table = soup.find("div", {"id": "mainNormal2"}).find_all('table')
+    schoolData['name'] = table[1].tr.td.b.text
+    #You have to identify the games by grabbing table rows with a bgcolor attribute because terrible site design :(
+    games = table[2].find_all('tr', {'bgcolor': 'e1dec2'})
 
-        #Make sure the team actually had games that season. Some schools have teams fold and form and have blank seasons.
-        if (len(games) != 0):
-            for x in range(0, len(games)):
-                #The opponent's name is in the second table data, the other game data is in the fourth table data
-                opponent = games[x].find_all('td')[1].text
-                gameData = games[x].find_all('td')[3].table.tr.find_all('td')[1]
-                #Make sure all relevant data for the game is reported
-                if (len(gameData) == 3):
-                    gameData = gameData.table.tr.find_all
-                    result = gameData('td')[0].text
-                    pointsFor = gameData('td')[2].text
-                    #For some reason the opponent score adds the - before the number to create a scoreline (e.g. 3-2)
-                    #so that part has to be taken off the string
-                    pointsAgainst = gameData('td')[3].text[1:]
-                schoolData['schedule'].append({'opponent': opponent, 'result': result, 'pointsFor': pointsFor, 'pointsAgainst': pointsAgainst})
-                #print(opponent, result, score, oppScore)
-            yearData['schoolSchedules'].append(schoolData)
-    data.append(yearData)
+    #Make sure the team actually had games that season. Some schools have teams fold and form and have blank seasons.
+    if (len(games) != 0):
+        for x in range(0, len(games)):
+            #The opponent's name is in the second table data, the other game data is in the fourth table data
+            opponent = games[x].find_all('td')[1].text
+            gameData = games[x].find_all('td')[3].table.tr.find_all('td')[1]
+            #Make sure all relevant data for the game is reported
+            if (len(gameData) == 3):
+                gameData = gameData.table.tr.find_all
+                result = gameData('td')[0].text
+                pointsFor = gameData('td')[2].text
+                #For some reason the opponent score adds the - before the number to create a scoreline (e.g. 3-2)
+                #so that part has to be taken off the string
+                pointsAgainst = gameData('td')[3].text[1:]
+            schoolData['schedule'].append({'opponent': opponent, 'result': result, 'pointsFor': pointsFor, 'pointsAgainst': pointsAgainst})
+            #print(opponent, result, score, oppScore)
+        yearData['schoolSchedules'].append(schoolData)
+data.append(yearData)
 
 #Total time it took the program to run
 print("--- %s seconds ---" % (time.time() - start_time))
 
 #Write the program to scrapeData.json with some extra arguments to prettify it
-with open('scrapeData.json', 'w') as f:
+with open('2019Data.json', 'w') as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
