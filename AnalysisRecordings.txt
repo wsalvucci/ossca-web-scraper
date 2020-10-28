@@ -1,0 +1,28 @@
+Starting kFactor, reduce each game, reset each year to,expected points constant,starting expected points against, # predicted
+
+No cutoff year - 80502 total games
+32,0.5,32,1,1.5,55081
+32,1,32,1,1.5,55036
+32,1,32,2,1.5,55678
+32,1,32,3,1.5,56140
+32,1,32,4,1.5,56526
+32,1,32,5,1.5,56840
+32,1,32,10,1.5,57801
+32,1,32,20,1.5,58573
+32,1,32,30,1.5,58813
+
+2004 cutoff - 79551 total games
+32,1,32,30,1.5,58197
+
+2010 cutoff - 52745 total games
+32,1,32,30,1.5,38879
+32,1,32,30,1,38869 (discarded)
+
+Graph compression
+1,38869
+2,38478
+0.5,38818
+0.75,38876
+
+Adjust kfactors again (52745 games)
+32,0.75,24 - 38746

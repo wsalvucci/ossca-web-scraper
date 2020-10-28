@@ -1,0 +1,967 @@
+[
+    {
+        "year": 2003,
+        "schoolSchedules": [
+            {
+                "id": 1,
+                "name": "Olentangy (Lewis Center)",
+                "schedule": [
+                    {
+                        "month": 8,
+                        "day": 19,
+                        "opponent": "Hilliard Davidson",
+                        "result": "W",
+                        "pointsFor": "1",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 8,
+                        "day": 21,
+                        "opponent": "Lancaster",
+                        "result": "W",
+                        "pointsFor": "2",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 8,
+                        "day": 23,
+                        "opponent": "Pickerington Central",
+                        "result": "L",
+                        "pointsFor": "1",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 8,
+                        "day": 26,
+                        "opponent": "Delaware Hayes",
+                        "result": "L",
+                        "pointsFor": "1",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 8,
+                        "day": 28,
+                        "opponent": "Bishop Watterson (Columbus)",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "6"
+                    },
+                    {
+                        "month": 8,
+                        "day": 30,
+                        "opponent": "Chillicothe",
+                        "result": "W",
+                        "pointsFor": "2",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 6,
+                        "opponent": "Grove City",
+                        "result": "W",
+                        "pointsFor": "1",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 11,
+                        "opponent": "Watkins Memorial (Pataskala)",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 9,
+                        "day": 13,
+                        "opponent": "Worthington Christian School",
+                        "result": "T",
+                        "pointsFor": "1",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 9,
+                        "day": 16,
+                        "opponent": "Westland (Galloway)",
+                        "result": "W",
+                        "pointsFor": "7",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 18,
+                        "opponent": "Westerville North",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "4"
+                    },
+                    {
+                        "month": 9,
+                        "day": 23,
+                        "opponent": "Dublin Scioto",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "5"
+                    },
+                    {
+                        "month": 9,
+                        "day": 30,
+                        "opponent": "Thomas Worthington",
+                        "result": "L",
+                        "pointsFor": "1",
+                        "pointsAgainst": "5"
+                    },
+                    {
+                        "month": 10,
+                        "day": 2,
+                        "opponent": "Lincoln (Gahanna)",
+                        "result": "L",
+                        "pointsFor": "2",
+                        "pointsAgainst": "3"
+                    },
+                    {
+                        "month": 10,
+                        "day": 7,
+                        "opponent": "Upper Arlington",
+                        "result": "L",
+                        "pointsFor": "1",
+                        "pointsAgainst": "5"
+                    },
+                    {
+                        "month": 10,
+                        "day": 9,
+                        "opponent": "Harding (Marion)",
+                        "result": "W",
+                        "pointsFor": "4",
+                        "pointsAgainst": "0"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Hilliard Davidson",
+                "schedule": [
+                    {
+                        "month": 8,
+                        "day": 19,
+                        "opponent": "Olentangy (Lewis Center)",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 8,
+                        "day": 23,
+                        "opponent": "Upper Arlington",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 8,
+                        "day": 28,
+                        "opponent": "Worthington Christian School",
+                        "result": "L",
+                        "pointsFor": "2",
+                        "pointsAgainst": "3"
+                    },
+                    {
+                        "month": 9,
+                        "day": 2,
+                        "opponent": "Chillicothe",
+                        "result": "W",
+                        "pointsFor": "3",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 6,
+                        "opponent": "Coffman (Dublin)",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "4"
+                    },
+                    {
+                        "month": 9,
+                        "day": 9,
+                        "opponent": "Reynoldsburg",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 9,
+                        "day": 11,
+                        "opponent": "The Wellington School (Columbus)",
+                        "result": "W",
+                        "pointsFor": "2",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 9,
+                        "day": 13,
+                        "opponent": "New Albany",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "4"
+                    },
+                    {
+                        "month": 9,
+                        "day": 15,
+                        "opponent": "St. Charles Prep School (Columbus)",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 9,
+                        "day": 16,
+                        "opponent": "Grove City",
+                        "result": "L",
+                        "pointsFor": "2",
+                        "pointsAgainst": "4"
+                    },
+                    {
+                        "month": 9,
+                        "day": 18,
+                        "opponent": "Marysville",
+                        "result": "T",
+                        "pointsFor": "0",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 23,
+                        "opponent": "Westerville South",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 9,
+                        "day": 25,
+                        "opponent": "Delaware Hayes",
+                        "result": "W",
+                        "pointsFor": "4",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 9,
+                        "day": 30,
+                        "opponent": "Groveport Madison",
+                        "result": "W",
+                        "pointsFor": "4",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 10,
+                        "day": 7,
+                        "opponent": "Worthington Kilbourne (Columbus)",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 10,
+                        "day": 11,
+                        "opponent": "Pickerington North",
+                        "result": "T",
+                        "pointsFor": "0",
+                        "pointsAgainst": "0"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Delaware Hayes",
+                "schedule": [
+                    {
+                        "month": 8,
+                        "day": 21,
+                        "opponent": "Central Crossing (Grove City)",
+                        "result": "T",
+                        "pointsFor": "2",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 8,
+                        "day": 26,
+                        "opponent": "Olentangy (Lewis Center)",
+                        "result": "T",
+                        "pointsFor": "2",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 8,
+                        "day": 28,
+                        "opponent": "Buckeye Valley (Delaware)",
+                        "result": "W",
+                        "pointsFor": "6",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 2,
+                        "opponent": "Upper Arlington",
+                        "result": "L",
+                        "pointsFor": "1",
+                        "pointsAgainst": "5"
+                    },
+                    {
+                        "month": 9,
+                        "day": 4,
+                        "opponent": "Harding (Marion)",
+                        "result": "W",
+                        "pointsFor": "5",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 9,
+                        "day": 9,
+                        "opponent": "Mount Vernon",
+                        "result": "W",
+                        "pointsFor": "3",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 9,
+                        "day": 13,
+                        "opponent": "Pickerington Central",
+                        "result": "L",
+                        "pointsFor": "1",
+                        "pointsAgainst": "5"
+                    },
+                    {
+                        "month": 9,
+                        "day": 16,
+                        "opponent": "Big Walnut (Sunbury)",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "3"
+                    },
+                    {
+                        "month": 9,
+                        "day": 23,
+                        "opponent": "Marysville",
+                        "result": "W",
+                        "pointsFor": "3",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 25,
+                        "opponent": "Hilliard Davidson",
+                        "result": "L",
+                        "pointsFor": "1",
+                        "pointsAgainst": "4"
+                    },
+                    {
+                        "month": 9,
+                        "day": 27,
+                        "opponent": "Bishop Hartley (Columbus)",
+                        "result": "L",
+                        "pointsFor": "1",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 9,
+                        "day": 30,
+                        "opponent": "Franklin Heights (Columbus)",
+                        "result": "W",
+                        "pointsFor": "5",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 10,
+                        "day": 2,
+                        "opponent": "Westerville Central",
+                        "result": "T",
+                        "pointsFor": "1",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 10,
+                        "day": 4,
+                        "opponent": "Hilliard Darby",
+                        "result": "L",
+                        "pointsFor": "1",
+                        "pointsAgainst": "4"
+                    },
+                    {
+                        "month": 10,
+                        "day": 7,
+                        "opponent": "Watkins Memorial (Pataskala)",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "3"
+                    },
+                    {
+                        "month": 10,
+                        "day": 9,
+                        "opponent": "Olentangy Liberty (Powell)",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "5"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Marysville",
+                "schedule": [
+                    {
+                        "month": 8,
+                        "day": 19,
+                        "opponent": "Pleasant (Marion)",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 8,
+                        "day": 23,
+                        "opponent": "Coffman (Dublin)",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "5"
+                    },
+                    {
+                        "month": 8,
+                        "day": 27,
+                        "opponent": "Bellefontaine",
+                        "result": "W",
+                        "pointsFor": "1",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 2,
+                        "opponent": "River Valley (Caledonia)",
+                        "result": "W",
+                        "pointsFor": "9",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 4,
+                        "opponent": "Westland (Galloway)",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 9,
+                        "day": 6,
+                        "opponent": "Groveport Madison",
+                        "result": "W",
+                        "pointsFor": "1",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 9,
+                        "opponent": "Big Walnut (Sunbury)",
+                        "result": "T",
+                        "pointsFor": "1",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 9,
+                        "day": 11,
+                        "opponent": "Harding (Marion)",
+                        "result": "W",
+                        "pointsFor": "1",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 13,
+                        "opponent": "Dublin Scioto",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "6"
+                    },
+                    {
+                        "month": 9,
+                        "day": 16,
+                        "opponent": "Franklin Heights (Columbus)",
+                        "result": "W",
+                        "pointsFor": "5",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 18,
+                        "opponent": "Hilliard Davidson",
+                        "result": "T",
+                        "pointsFor": "0",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 20,
+                        "opponent": "Benjamin Logan (Bellefontaine)",
+                        "result": "W",
+                        "pointsFor": "3",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 9,
+                        "day": 23,
+                        "opponent": "Delaware Hayes",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "3"
+                    },
+                    {
+                        "month": 9,
+                        "day": 25,
+                        "opponent": "Buckeye Valley (Delaware)",
+                        "result": "W",
+                        "pointsFor": "1",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 27,
+                        "opponent": "Watkins Memorial (Pataskala)",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "7"
+                    },
+                    {
+                        "month": 10,
+                        "day": 7,
+                        "opponent": "Mount Vernon",
+                        "result": "W",
+                        "pointsFor": "1",
+                        "pointsAgainst": "0"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "name": "Big Walnut (Sunbury)",
+                "schedule": [
+                    {
+                        "month": 8,
+                        "day": 21,
+                        "opponent": "Newark",
+                        "result": "W",
+                        "pointsFor": "4",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 8,
+                        "day": 22,
+                        "opponent": "Centennial (Columbus)",
+                        "result": "W",
+                        "pointsFor": "8",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 8,
+                        "day": 23,
+                        "opponent": "St. Peter's (Mansfield)",
+                        "result": "W",
+                        "pointsFor": "4",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 8,
+                        "day": 28,
+                        "opponent": "Pickerington North",
+                        "result": "T",
+                        "pointsFor": "1",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 9,
+                        "day": 6,
+                        "opponent": "Shaker Heights",
+                        "result": "W",
+                        "pointsFor": "2",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 9,
+                        "opponent": "Marysville",
+                        "result": "T",
+                        "pointsFor": "1",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 9,
+                        "day": 11,
+                        "opponent": "Bexley",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 9,
+                        "day": 16,
+                        "opponent": "Delaware Hayes",
+                        "result": "W",
+                        "pointsFor": "3",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 18,
+                        "opponent": "Groveport Madison",
+                        "result": "W",
+                        "pointsFor": "9",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 23,
+                        "opponent": "Watkins Memorial (Pataskala)",
+                        "result": "W",
+                        "pointsFor": "2",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 9,
+                        "day": 30,
+                        "opponent": "Mount Vernon",
+                        "result": "W",
+                        "pointsFor": "2",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 10,
+                        "day": 2,
+                        "opponent": "Olentangy Liberty (Powell)",
+                        "result": "W",
+                        "pointsFor": "2",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 10,
+                        "day": 4,
+                        "opponent": "London",
+                        "result": "L",
+                        "pointsFor": "2",
+                        "pointsAgainst": "3"
+                    },
+                    {
+                        "month": 10,
+                        "day": 7,
+                        "opponent": "Franklin Heights (Columbus)",
+                        "result": "W",
+                        "pointsFor": "6",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 10,
+                        "day": 9,
+                        "opponent": "Westerville Central",
+                        "result": "W",
+                        "pointsFor": "2",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 10,
+                        "day": 11,
+                        "opponent": "New Albany",
+                        "result": "W",
+                        "pointsFor": "4",
+                        "pointsAgainst": "1"
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "name": "Worthington Christian School",
+                "schedule": [
+                    {
+                        "month": 8,
+                        "day": 21,
+                        "opponent": "New Albany",
+                        "result": "W",
+                        "pointsFor": "5",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 8,
+                        "day": 23,
+                        "opponent": "Bishop Ready (Columbus)",
+                        "result": "W",
+                        "pointsFor": "7",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 8,
+                        "day": 28,
+                        "opponent": "Hilliard Davidson",
+                        "result": "W",
+                        "pointsFor": "3",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 8,
+                        "day": 30,
+                        "opponent": "Summit Country Day School (Cincinnati)",
+                        "result": "W",
+                        "pointsFor": "5",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 9,
+                        "day": 6,
+                        "opponent": "Granville",
+                        "result": "W",
+                        "pointsFor": "2",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 13,
+                        "opponent": "Olentangy (Lewis Center)",
+                        "result": "T",
+                        "pointsFor": "1",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 9,
+                        "day": 18,
+                        "opponent": "Grandview Heights",
+                        "result": "W",
+                        "pointsFor": "9",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 20,
+                        "opponent": "Columbus Academy (Gahanna)",
+                        "result": "W",
+                        "pointsFor": "2",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 9,
+                        "day": 23,
+                        "opponent": "The Wellington School (Columbus)",
+                        "result": "W",
+                        "pointsFor": "4",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 25,
+                        "opponent": "Olentangy Liberty (Powell)",
+                        "result": "T",
+                        "pointsFor": "2",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 9,
+                        "day": 27,
+                        "opponent": "Hilliard Darby",
+                        "result": "W",
+                        "pointsFor": "5",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 9,
+                        "day": 30,
+                        "opponent": "Canal Winchester",
+                        "result": "W",
+                        "pointsFor": "4",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 10,
+                        "day": 2,
+                        "opponent": "Grove City",
+                        "result": "W",
+                        "pointsFor": "4",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 10,
+                        "day": 7,
+                        "opponent": "Bishop Hartley (Columbus)",
+                        "result": "W",
+                        "pointsFor": "6",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 10,
+                        "day": 9,
+                        "opponent": "Bexley",
+                        "result": "L",
+                        "pointsFor": "1",
+                        "pointsAgainst": "3"
+                    },
+                    {
+                        "month": 10,
+                        "day": 11,
+                        "opponent": "Bishop Watterson (Columbus)",
+                        "result": "W",
+                        "pointsFor": "3",
+                        "pointsAgainst": "1"
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "name": "Beavercreek",
+                "schedule": [
+                    {
+                        "month": 9,
+                        "day": 16,
+                        "opponent": "Centerville",
+                        "result": "W",
+                        "pointsFor": "3",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 9,
+                        "day": 20,
+                        "opponent": "Carroll (Dayton)",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "2"
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "name": "Pickerington Central",
+                "schedule": [
+                    {
+                        "month": 8,
+                        "day": 21,
+                        "opponent": "Groveport Madison",
+                        "result": "W",
+                        "pointsFor": "7",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 8,
+                        "day": 23,
+                        "opponent": "Olentangy (Lewis Center)",
+                        "result": "W",
+                        "pointsFor": "2",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 8,
+                        "day": 26,
+                        "opponent": "Bishop Watterson (Columbus)",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 8,
+                        "day": 28,
+                        "opponent": "Central Crossing (Grove City)",
+                        "result": "W",
+                        "pointsFor": "2",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 9,
+                        "day": 2,
+                        "opponent": "Hilliard Darby",
+                        "result": "W",
+                        "pointsFor": "3",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 9,
+                        "day": 4,
+                        "opponent": "Worthington Kilbourne (Columbus)",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "2"
+                    },
+                    {
+                        "month": 9,
+                        "day": 9,
+                        "opponent": "Westerville North",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "3"
+                    },
+                    {
+                        "month": 9,
+                        "day": 11,
+                        "opponent": "Grove City",
+                        "result": "W",
+                        "pointsFor": "3",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 9,
+                        "day": 13,
+                        "opponent": "Delaware Hayes",
+                        "result": "W",
+                        "pointsFor": "5",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 9,
+                        "day": 16,
+                        "opponent": "Coffman (Dublin)",
+                        "result": "L",
+                        "pointsFor": "2",
+                        "pointsAgainst": "3"
+                    },
+                    {
+                        "month": 9,
+                        "day": 23,
+                        "opponent": "Lincoln (Gahanna)",
+                        "result": "L",
+                        "pointsFor": "1",
+                        "pointsAgainst": "3"
+                    },
+                    {
+                        "month": 9,
+                        "day": 30,
+                        "opponent": "Lancaster",
+                        "result": "W",
+                        "pointsFor": "4",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 10,
+                        "day": 4,
+                        "opponent": "Reynoldsburg",
+                        "result": "W",
+                        "pointsFor": "1",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 10,
+                        "day": 7,
+                        "opponent": "Newark",
+                        "result": "W",
+                        "pointsFor": "5",
+                        "pointsAgainst": "0"
+                    },
+                    {
+                        "month": 10,
+                        "day": 9,
+                        "opponent": "The Plains Athens",
+                        "result": "W",
+                        "pointsFor": "2",
+                        "pointsAgainst": "1"
+                    },
+                    {
+                        "month": 10,
+                        "day": 12,
+                        "opponent": "Dublin Scioto",
+                        "result": "L",
+                        "pointsFor": "0",
+                        "pointsAgainst": "2"
+                    }
+                ]
+            }
+        ]
+    }
+]
