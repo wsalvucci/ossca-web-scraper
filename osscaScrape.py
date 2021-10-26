@@ -16,7 +16,7 @@ start_time = time.time()
 #The data that will be written to the json file at the end
 data = []
 
-year = 2020
+year = 2021
 #The first season logged in the OSSCA schedules is 2003 and the curernt schedule is 2020
 
 #Mapping object to sort months of the year
@@ -51,6 +51,13 @@ for x in range(1, 2960):
     #You have to identify the games by grabbing table rows with a bgcolor attribute because terrible site design :(
     games = table[2].find_all('tr', {'bgcolor': 'e1dec2'})
 
+    if "(Boys)" in table[1].tr.td.text:
+        print(schoolData['name'] + " Boys")
+        schoolData['gender'] = "Boys"
+    elif "(Girls)" in table[1].tr.td.text:
+        print(schoolData['name'] + " Girls")
+        schoolData['gender'] = "Girls"
+
     #Make sure the team actually had games that season. Some schools have teams fold and form and have blank seasons.
     if (len(games) != 0):
         for x in range(0, len(games)):
@@ -77,5 +84,5 @@ data.append(yearData)
 print("--- %s seconds ---" % (time.time() - start_time))
 
 #Write the program to scrapeData.json with some extra arguments to prettify it
-with open('./2020Data.json', 'w') as f:
+with open('./2021Data.json', 'w') as f:
     json.dump(data, f, ensure_ascii=False, indent=4)

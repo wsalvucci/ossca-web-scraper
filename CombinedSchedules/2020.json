@@ -2,6 +2,15 @@
     {
         "month": 8,
         "day": 1,
+        "team1": "Beavercreek",
+        "team2": "Sidney",
+        "winner": "Sidney",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 8,
+        "day": 1,
         "team1": "Parma",
         "team2": "Fairview",
         "winner": "Fairview",
@@ -453,7 +462,7 @@
         "month": 8,
         "day": 21,
         "team1": "Euclid",
-        "team2": "Cornerstone Christian Academy (Willoughby Hills)",
+        "team2": "Cornerstone Christian Academy (Mentor)",
         "winner": "Euclid",
         "team1Score": 2,
         "team2Score": 1
@@ -744,7 +753,7 @@
         "team2": "Miami Valley Christian Academy",
         "winner": "Miami Valley Christian Academy",
         "team1Score": 0,
-        "team2Score": 2
+        "team2Score": 1
     },
     {
         "month": 8,
@@ -860,7 +869,7 @@
         "team1": "Northview (Sylvania)",
         "team2": "Pioneer (Ann Arbor, MI)",
         "winner": "Pioneer (Ann Arbor, MI)",
-        "team1Score": 0,
+        "team1Score": 1,
         "team2Score": 2
     },
     {
@@ -1076,8 +1085,8 @@
         "team1": "Bowsher (Toledo)",
         "team2": "Maumee",
         "winner": "Maumee",
-        "team1Score": 1,
-        "team2Score": 7
+        "team1Score": 0,
+        "team2Score": 9
     },
     {
         "month": 8,
@@ -1793,15 +1802,6 @@
     {
         "month": 8,
         "day": 24,
-        "team1": "Fairborn",
-        "team2": "Sidney",
-        "winner": "Sidney",
-        "team1Score": 0,
-        "team2Score": 5
-    },
-    {
-        "month": 8,
-        "day": 24,
         "team1": "Sycamore",
         "team2": "West Clermont (Batavia)",
         "winner": "Sycamore",
@@ -1869,6 +1869,15 @@
         "team2": "Licking Heights (Pataskala)",
         "winner": "Big Walnut (Sunbury)",
         "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 8,
+        "day": 25,
+        "team1": "Beavercreek",
+        "team2": "Springboro",
+        "winner": "Beavercreek",
+        "team1Score": 1,
         "team2Score": 0
     },
     {
@@ -2451,7 +2460,7 @@
         "month": 8,
         "day": 25,
         "team1": "Crestwood",
-        "team2": "Cornerstone Christian Academy (Willoughby Hills)",
+        "team2": "Cornerstone Christian Academy (Mentor)",
         "winner": "Crestwood",
         "team1Score": 4,
         "team2Score": 3
@@ -2795,15 +2804,6 @@
         "team1": "Oak Hills (Cincinnati)",
         "team2": "Wyoming",
         "winner": "Wyoming",
-        "team1Score": 0,
-        "team2Score": 1
-    },
-    {
-        "month": 8,
-        "day": 25,
-        "team1": "Springboro",
-        "team2": "Beavercreek",
-        "winner": "Beavercreek",
         "team1Score": 0,
         "team2Score": 1
     },
@@ -3269,15 +3269,6 @@
     {
         "month": 8,
         "day": 26,
-        "team1": "Piqua",
-        "team2": "Sidney",
-        "winner": "Sidney",
-        "team1Score": 0,
-        "team2Score": 4
-    },
-    {
-        "month": 8,
-        "day": 26,
         "team1": "McAuley (Cincinnati)",
         "team2": "St. Ursula Academy (Cincinnati)",
         "winner": "St. Ursula Academy (Cincinnati)",
@@ -3344,6 +3335,15 @@
         "team1": "Dublin Jerome",
         "team2": "Upper Arlington",
         "winner": "Dublin Jerome",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 8,
+        "day": 27,
+        "team1": "Beavercreek",
+        "team2": "Springfield",
+        "winner": "Beavercreek",
         "team1Score": 1,
         "team2Score": 0
     },
@@ -3935,9 +3935,9 @@
     {
         "month": 8,
         "day": 27,
-        "team1": "Cornerstone Christian Academy (Willoughby Hills)",
+        "team1": "Cornerstone Christian Academy (Mentor)",
         "team2": "Villa Angela-St. Joseph (Cleveland)",
-        "winner": "Cornerstone Christian Academy (Willoughby Hills)",
+        "winner": "Cornerstone Christian Academy (Mentor)",
         "team1Score": 3,
         "team2Score": 2
     },
@@ -4088,6 +4088,15 @@
     {
         "month": 8,
         "day": 27,
+        "team1": "Emmanuel Christian School (Toledo)",
+        "team2": "Liberty Center",
+        "winner": "Liberty Center",
+        "team1Score": 0,
+        "team2Score": 9
+    },
+    {
+        "month": 8,
+        "day": 27,
         "team1": "Colerain (Cincinnati)",
         "team2": "Harrison (Cincinnati)",
         "winner": "Colerain (Cincinnati)",
@@ -4129,15 +4138,6 @@
         "winner": "Sidney",
         "team1Score": 2,
         "team2Score": 5
-    },
-    {
-        "month": 8,
-        "day": 27,
-        "team1": "Springfield",
-        "team2": "Beavercreek",
-        "winner": "Beavercreek",
-        "team1Score": 0,
-        "team2Score": 1
     },
     {
         "month": 8,
@@ -5780,7 +5780,7 @@
     {
         "month": 8,
         "day": 31,
-        "team1": "Cornerstone Christian Academy (Willoughby Hills)",
+        "team1": "Cornerstone Christian Academy (Mentor)",
         "team2": "Christian Community School (North Eaton)",
         "winner": "Christian Community School (North Eaton)",
         "team1Score": 4,
@@ -6230,6 +6230,15 @@
     {
         "month": 9,
         "day": 1,
+        "team1": "Beavercreek",
+        "team2": "Centerville",
+        "winner": "",
+        "team1Score": 3,
+        "team2Score": 3
+    },
+    {
+        "month": 9,
+        "day": 1,
         "team1": "Pickerington Central",
         "team2": "Lincoln (Gahanna)",
         "winner": "Lincoln (Gahanna)",
@@ -6487,15 +6496,6 @@
         "winner": "Strongsville",
         "team1Score": 2,
         "team2Score": 1
-    },
-    {
-        "month": 9,
-        "day": 1,
-        "team1": "Centerville",
-        "team2": "Beavercreek",
-        "winner": "",
-        "team1Score": 3,
-        "team2Score": 3
     },
     {
         "month": 9,
@@ -7130,6 +7130,15 @@
     {
         "month": 9,
         "day": 1,
+        "team1": "Emmanuel Christian School (Toledo)",
+        "team2": "Northwood",
+        "winner": "Northwood",
+        "team1Score": 0,
+        "team2Score": 9
+    },
+    {
+        "month": 9,
+        "day": 1,
         "team1": "Anderson (Cincinnati)",
         "team2": "Hamilton",
         "winner": "Anderson (Cincinnati)",
@@ -7193,20 +7202,20 @@
     {
         "month": 9,
         "day": 1,
+        "team1": "Sidney",
+        "team2": "Stebbins (Riverside)",
+        "winner": "Sidney",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 9,
+        "day": 1,
         "team1": "Springboro",
         "team2": "Wayne (Huber Heights)",
         "winner": "Springboro",
         "team1Score": 4,
         "team2Score": 0
-    },
-    {
-        "month": 9,
-        "day": 1,
-        "team1": "Stebbins (Riverside)",
-        "team2": "Sidney",
-        "winner": "Sidney",
-        "team1Score": 1,
-        "team2Score": 2
     },
     {
         "month": 9,
@@ -7796,15 +7805,6 @@
     {
         "month": 9,
         "day": 2,
-        "team1": "Butler (Vandalia)",
-        "team2": "Sidney",
-        "winner": "Butler (Vandalia)",
-        "team1Score": 1,
-        "team2Score": 0
-    },
-    {
-        "month": 9,
-        "day": 2,
         "team1": "McAuley (Cincinnati)",
         "team2": "Mount Notre Dame (Cincinnati)",
         "winner": "Mount Notre Dame (Cincinnati)",
@@ -7881,6 +7881,15 @@
         "team2": "Olentangy Berlin (Delaware)",
         "winner": "Olentangy Berlin (Delaware)",
         "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 9,
+        "day": 3,
+        "team1": "Beavercreek",
+        "team2": "Wayne (Huber Heights)",
+        "winner": "Beavercreek",
+        "team1Score": 4,
         "team2Score": 1
     },
     {
@@ -8481,7 +8490,7 @@
         "month": 9,
         "day": 3,
         "team1": "Benedictine (Cleveland)",
-        "team2": "Cornerstone Christian Academy (Willoughby Hills)",
+        "team2": "Cornerstone Christian Academy (Mentor)",
         "winner": "Benedictine (Cleveland)",
         "team1Score": 5,
         "team2Score": 1
@@ -8643,7 +8652,7 @@
         "month": 9,
         "day": 3,
         "team1": "Independence",
-        "team2": "Open Door Christian Academy",
+        "team2": "Open Door Christian Academy (elyria)",
         "winner": "Independence",
         "team1Score": 2,
         "team2Score": 1
@@ -8944,15 +8953,6 @@
         "winner": "Springboro",
         "team1Score": 3,
         "team2Score": 1
-    },
-    {
-        "month": 9,
-        "day": 3,
-        "team1": "Wayne (Huber Heights)",
-        "team2": "Beavercreek",
-        "winner": "Beavercreek",
-        "team1Score": 1,
-        "team2Score": 4
     },
     {
         "month": 9,
@@ -9812,9 +9812,9 @@
     {
         "month": 9,
         "day": 5,
-        "team1": "Cornerstone Christian Academy (Willoughby Hills)",
+        "team1": "Cornerstone Christian Academy (Mentor)",
         "team2": "St. John High school (Ashtabula)",
-        "winner": "Cornerstone Christian Academy (Willoughby Hills)",
+        "winner": "Cornerstone Christian Academy (Mentor)",
         "team1Score": 6,
         "team2Score": 5
     },
@@ -10311,6 +10311,15 @@
         "team2": "Hilliard Bradley",
         "winner": "Dublin Jerome",
         "team1Score": 2,
+        "team2Score": 0
+    },
+    {
+        "month": 9,
+        "day": 8,
+        "team1": "Beavercreek",
+        "team2": "Miamisburg",
+        "winner": "Beavercreek",
+        "team1Score": 1,
         "team2Score": 0
     },
     {
@@ -11180,7 +11189,7 @@
     {
         "month": 9,
         "day": 8,
-        "team1": "Cornerstone Christian Academy (Willoughby Hills)",
+        "team1": "Cornerstone Christian Academy (Mentor)",
         "team2": "Andrews Osborne Academy (Willoughby)",
         "winner": "Andrews Osborne Academy (Willoughby)",
         "team1Score": 0,
@@ -11396,15 +11405,6 @@
     {
         "month": 9,
         "day": 8,
-        "team1": "Miamisburg",
-        "team2": "Beavercreek",
-        "winner": "Beavercreek",
-        "team1Score": 0,
-        "team2Score": 1
-    },
-    {
-        "month": 9,
-        "day": 8,
         "team1": "Northwest (Cincinnati)",
         "team2": "Winton Woods (Cincinnati)",
         "winner": "",
@@ -11423,20 +11423,20 @@
     {
         "month": 9,
         "day": 8,
+        "team1": "Sidney",
+        "team2": "Xenia",
+        "winner": "Sidney",
+        "team1Score": 3,
+        "team2Score": 2
+    },
+    {
+        "month": 9,
+        "day": 8,
         "team1": "Springfield",
         "team2": "Wayne (Huber Heights)",
         "winner": "",
         "team1Score": 1,
         "team2Score": 1
-    },
-    {
-        "month": 9,
-        "day": 8,
-        "team1": "Xenia",
-        "team2": "Sidney",
-        "winner": "Sidney",
-        "team1Score": 2,
-        "team2Score": 3
     },
     {
         "month": 9,
@@ -12215,6 +12215,15 @@
     {
         "month": 9,
         "day": 10,
+        "team1": "Beavercreek",
+        "team2": "Northmont (Clayton)",
+        "winner": "Beavercreek",
+        "team1Score": 4,
+        "team2Score": 1
+    },
+    {
+        "month": 9,
+        "day": 10,
         "team1": "Pickerington Central",
         "team2": "Whitehall-Yearling",
         "winner": "Whitehall-Yearling",
@@ -12445,15 +12454,6 @@
         "winner": "Centerville",
         "team1Score": 3,
         "team2Score": 2
-    },
-    {
-        "month": 9,
-        "day": 10,
-        "team1": "Northmont (Clayton)",
-        "team2": "Beavercreek",
-        "winner": "Beavercreek",
-        "team1Score": 1,
-        "team2Score": 4
     },
     {
         "month": 9,
@@ -12828,8 +12828,8 @@
         "month": 9,
         "day": 10,
         "team1": "Lakeside (Ashtabula)",
-        "team2": "Cornerstone Christian Academy (Willoughby Hills)",
-        "winner": "Cornerstone Christian Academy (Willoughby Hills)",
+        "team2": "Cornerstone Christian Academy (Mentor)",
+        "winner": "Cornerstone Christian Academy (Mentor)",
         "team1Score": 0,
         "team2Score": 6
     },
@@ -13277,20 +13277,20 @@
     {
         "month": 9,
         "day": 10,
+        "team1": "Sidney",
+        "team2": "Troy",
+        "winner": "Troy",
+        "team1Score": 2,
+        "team2Score": 5
+    },
+    {
+        "month": 9,
+        "day": 10,
         "team1": "Tecumseh (New Carlisle)",
         "team2": "Graham (St. Paris)",
         "winner": "Tecumseh (New Carlisle)",
         "team1Score": 3,
         "team2Score": 0
-    },
-    {
-        "month": 9,
-        "day": 10,
-        "team1": "Troy",
-        "team2": "Sidney",
-        "winner": "Troy",
-        "team1Score": 5,
-        "team2Score": 2
     },
     {
         "month": 9,
@@ -14268,7 +14268,7 @@
         "month": 9,
         "day": 12,
         "team1": "Badger (Kinsman)",
-        "team2": "Cornerstone Christian Academy (Willoughby Hills)",
+        "team2": "Cornerstone Christian Academy (Mentor)",
         "winner": "Badger (Kinsman)",
         "team1Score": 8,
         "team2Score": 1
@@ -14695,15 +14695,6 @@
         "winner": "Twinsburg",
         "team1Score": 3,
         "team2Score": 0
-    },
-    {
-        "month": 9,
-        "day": 12,
-        "team1": "Open Door Christian Academy",
-        "team2": "Galion",
-        "winner": "Galion",
-        "team1Score": 0,
-        "team2Score": 5
     },
     {
         "month": 9,
@@ -15540,6 +15531,15 @@
         "team2": "Thomas Worthington",
         "winner": "Dublin Jerome",
         "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 9,
+        "day": 15,
+        "team1": "Beavercreek",
+        "team2": "Fairmont (Kettering)",
+        "winner": "Beavercreek",
+        "team1Score": 5,
         "team2Score": 0
     },
     {
@@ -16607,15 +16607,6 @@
     {
         "month": 9,
         "day": 15,
-        "team1": "Fairmont (Kettering)",
-        "team2": "Beavercreek",
-        "winner": "Beavercreek",
-        "team1Score": 0,
-        "team2Score": 5
-    },
-    {
-        "month": 9,
-        "day": 15,
         "team1": "Greenville",
         "team2": "Piqua",
         "winner": "Piqua",
@@ -16670,20 +16661,20 @@
     {
         "month": 9,
         "day": 15,
+        "team1": "Sidney",
+        "team2": "West Carrollton",
+        "winner": "Sidney",
+        "team1Score": 6,
+        "team2Score": 0
+    },
+    {
+        "month": 9,
+        "day": 15,
         "team1": "Troy",
         "team2": "Tippecanoe",
         "winner": "Tippecanoe",
         "team1Score": 1,
         "team2Score": 9
-    },
-    {
-        "month": 9,
-        "day": 15,
-        "team1": "West Carrollton",
-        "team2": "Sidney",
-        "winner": "Sidney",
-        "team1Score": 0,
-        "team2Score": 6
     },
     {
         "month": 9,
@@ -17426,6 +17417,15 @@
     {
         "month": 9,
         "day": 17,
+        "team1": "Beavercreek",
+        "team2": "Springboro",
+        "winner": "Beavercreek",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 9,
+        "day": 17,
         "team1": "Pickerington Central",
         "team2": "Westland (Galloway)",
         "winner": "Pickerington Central",
@@ -17966,6 +17966,15 @@
     {
         "month": 9,
         "day": 17,
+        "team1": "Washington (Massillon)",
+        "team2": "Barberton",
+        "winner": "Barberton",
+        "team1Score": 0,
+        "team2Score": 4
+    },
+    {
+        "month": 9,
+        "day": 17,
         "team1": "Fitch (Austintown)",
         "team2": "Canfield",
         "winner": "Canfield",
@@ -18488,11 +18497,11 @@
     {
         "month": 9,
         "day": 17,
-        "team1": "Springboro",
-        "team2": "Beavercreek",
-        "winner": "Beavercreek",
+        "team1": "Sidney",
+        "team2": "Tippecanoe",
+        "winner": "Tippecanoe",
         "team1Score": 0,
-        "team2Score": 1
+        "team2Score": 4
     },
     {
         "month": 9,
@@ -18574,15 +18583,6 @@
         "winner": "Milton-Union (West Milton)",
         "team1Score": 2,
         "team2Score": 9
-    },
-    {
-        "month": 9,
-        "day": 17,
-        "team1": "Tippecanoe",
-        "team2": "Sidney",
-        "winner": "Tippecanoe",
-        "team1Score": 4,
-        "team2Score": 0
     },
     {
         "month": 9,
@@ -19352,6 +19352,15 @@
     {
         "month": 9,
         "day": 19,
+        "team1": "Washington (Massillon)",
+        "team2": "Field (Mogadore)",
+        "winner": "Field (Mogadore)",
+        "team1Score": 0,
+        "team2Score": 6
+    },
+    {
+        "month": 9,
+        "day": 19,
         "team1": "Green (Uniontown)",
         "team2": "Barberton",
         "winner": "Green (Uniontown)",
@@ -19515,7 +19524,7 @@
         "month": 9,
         "day": 19,
         "team1": "Perry",
-        "team2": "Open Door Christian Academy",
+        "team2": "Open Door Christian Academy (elyria)",
         "winner": "Perry",
         "team1Score": 1,
         "team2Score": 0
@@ -19794,7 +19803,7 @@
         "month": 9,
         "day": 19,
         "team1": "Madison Plains (London)",
-        "team2": "Wellsville",
+        "team2": "Wellston",
         "winner": "Madison Plains (London)",
         "team1Score": 4,
         "team2Score": 1
@@ -20155,9 +20164,9 @@
         "day": 21,
         "team1": "Liberty (Youngstown)",
         "team2": "Bristol",
-        "winner": "Liberty (Youngstown)",
-        "team1Score": 10,
-        "team2Score": 0
+        "winner": "Bristol",
+        "team1Score": 0,
+        "team2Score": 4
     },
     {
         "month": 9,
@@ -20189,9 +20198,9 @@
     {
         "month": 9,
         "day": 21,
-        "team1": "Cornerstone Christian Academy (Willoughby Hills)",
+        "team1": "Cornerstone Christian Academy (Mentor)",
         "team2": "Christian Community School (North Eaton)",
-        "winner": "Cornerstone Christian Academy (Willoughby Hills)",
+        "winner": "Cornerstone Christian Academy (Mentor)",
         "team1Score": 3,
         "team2Score": 0
     },
@@ -20264,7 +20273,7 @@
         "team1": "Port Clinton",
         "team2": "Old Fort",
         "winner": "Old Fort",
-        "team1Score": 0,
+        "team1Score": 1,
         "team2Score": 7
     },
     {
@@ -20345,8 +20354,8 @@
         "team1": "Western Hills (Cincinnati)",
         "team2": "West Clermont (Batavia)",
         "winner": "West Clermont (Batavia)",
-        "team1Score": 2,
-        "team2Score": 6
+        "team1Score": 3,
+        "team2Score": 4
     },
     {
         "month": 9,
@@ -20495,15 +20504,6 @@
     {
         "month": 9,
         "day": 21,
-        "team1": "Greenville",
-        "team2": "Sidney",
-        "winner": "Sidney",
-        "team1Score": 0,
-        "team2Score": 9
-    },
-    {
-        "month": 9,
-        "day": 21,
         "team1": "McAuley (Cincinnati)",
         "team2": "St. Ursula Academy (Cincinnati)",
         "winner": "St. Ursula Academy (Cincinnati)",
@@ -20581,6 +20581,15 @@
         "winner": "Worthington Kilbourne (Columbus)",
         "team1Score": 0,
         "team2Score": 2
+    },
+    {
+        "month": 9,
+        "day": 22,
+        "team1": "Beavercreek",
+        "team2": "Springfield",
+        "winner": "Beavercreek",
+        "team1Score": 6,
+        "team2Score": 0
     },
     {
         "month": 9,
@@ -21242,10 +21251,28 @@
     {
         "month": 9,
         "day": 22,
+        "team1": "St. Clairsville",
+        "team2": "East Liverpool",
+        "winner": "St. Clairsville",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 9,
+        "day": 22,
         "team1": "Cincinnati Hills Christian Academy",
         "team2": "Norwood",
         "winner": "Cincinnati Hills Christian Academy",
         "team1Score": 9,
+        "team2Score": 0
+    },
+    {
+        "month": 9,
+        "day": 22,
+        "team1": "Beaver Local (East Liverpool)",
+        "team2": "Indian Creek (Wintersville)",
+        "winner": "Beaver Local (East Liverpool)",
+        "team1Score": 2,
         "team2Score": 0
     },
     {
@@ -21724,15 +21751,6 @@
         "winner": "Troy",
         "team1Score": 0,
         "team2Score": 8
-    },
-    {
-        "month": 9,
-        "day": 22,
-        "team1": "Springfield",
-        "team2": "Beavercreek",
-        "winner": "Beavercreek",
-        "team1Score": 0,
-        "team2Score": 6
     },
     {
         "month": 9,
@@ -22439,15 +22457,6 @@
     {
         "month": 9,
         "day": 23,
-        "team1": "Fairborn",
-        "team2": "Sidney",
-        "winner": "Sidney",
-        "team1Score": 0,
-        "team2Score": 3
-    },
-    {
-        "month": 9,
-        "day": 23,
         "team1": "McAuley (Cincinnati)",
         "team2": "Ursuline Academy (Cincinnati)",
         "winner": "Ursuline Academy (Cincinnati)",
@@ -22507,6 +22516,15 @@
         "winner": "",
         "team1Score": 0,
         "team2Score": 0
+    },
+    {
+        "month": 9,
+        "day": 24,
+        "team1": "Beavercreek",
+        "team2": "Centerville",
+        "winner": "",
+        "team1Score": 2,
+        "team2Score": 2
     },
     {
         "month": 9,
@@ -22799,15 +22817,6 @@
     {
         "month": 9,
         "day": 24,
-        "team1": "Centerville",
-        "team2": "Beavercreek",
-        "winner": "",
-        "team1Score": 2,
-        "team2Score": 2
-    },
-    {
-        "month": 9,
-        "day": 24,
         "team1": "Northmont (Clayton)",
         "team2": "Miamisburg",
         "winner": "Miamisburg",
@@ -23064,6 +23073,15 @@
         "team2": "Sandy Valley (Magnolia)",
         "winner": "Sandy Valley (Magnolia)",
         "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 9,
+        "day": 24,
+        "team1": "East Liverpool",
+        "team2": "Crestview (Columbiana)",
+        "winner": "Crestview (Columbiana)",
+        "team1Score": 0,
         "team2Score": 2
     },
     {
@@ -23834,9 +23852,9 @@
     {
         "month": 9,
         "day": 24,
-        "team1": "Open Door Christian Academy",
+        "team1": "Open Door Christian Academy (elyria)",
         "team2": "Garfield Heights",
-        "winner": "Open Door Christian Academy",
+        "winner": "Open Door Christian Academy (elyria)",
         "team1Score": 8,
         "team2Score": 2
     },
@@ -23969,9 +23987,9 @@
     {
         "month": 9,
         "day": 25,
-        "team1": "Cornerstone Christian Academy (Willoughby Hills)",
-        "team2": "Open Door Christian Academy",
-        "winner": "Open Door Christian Academy",
+        "team1": "Cornerstone Christian Academy (Mentor)",
+        "team2": "Open Door Christian Academy (elyria)",
+        "winner": "Open Door Christian Academy (elyria)",
         "team1Score": 2,
         "team2Score": 3
     },
@@ -24455,11 +24473,29 @@
     {
         "month": 9,
         "day": 26,
+        "team1": "Steubenville Catholic Central",
+        "team2": "Caldwell",
+        "winner": "Steubenville Catholic Central",
+        "team1Score": 7,
+        "team2Score": 1
+    },
+    {
+        "month": 9,
+        "day": 26,
         "team1": "Hiland (Berlin)",
         "team2": "Lake Center Christian School (Hartville)",
         "winner": "Hiland (Berlin)",
         "team1Score": 6,
         "team2Score": 0
+    },
+    {
+        "month": 9,
+        "day": 26,
+        "team1": "St. Clairsville",
+        "team2": "Beaver Local (East Liverpool)",
+        "winner": "St. Clairsville",
+        "team1Score": 3,
+        "team2Score": 2
     },
     {
         "month": 9,
@@ -25085,11 +25121,29 @@
     {
         "month": 9,
         "day": 26,
+        "team1": "East Liverpool",
+        "team2": "Leetonia",
+        "winner": "East Liverpool",
+        "team1Score": 8,
+        "team2Score": 1
+    },
+    {
+        "month": 9,
+        "day": 26,
         "team1": "Steubenville Catholic Central",
         "team2": "Madonna (Weirton, WV)",
         "winner": "Madonna (Weirton, WV)",
         "team1Score": 0,
         "team2Score": 1
+    },
+    {
+        "month": 9,
+        "day": 26,
+        "team1": "Steubenville",
+        "team2": "Parkersburg South (Parkersburg, WV)",
+        "winner": "Parkersburg South (Parkersburg, WV)",
+        "team1Score": 0,
+        "team2Score": 4
     },
     {
         "month": 9,
@@ -25583,8 +25637,8 @@
         "team1": "Western Hills (Cincinnati)",
         "team2": "Cincinnati Christian School",
         "winner": "Cincinnati Christian School",
-        "team1Score": 2,
-        "team2Score": 6
+        "team1Score": 3,
+        "team2Score": 4
     },
     {
         "month": 9,
@@ -25690,9 +25744,9 @@
         "day": 28,
         "team1": "Edison (Milan)",
         "team2": "Mapleton (Ashland)",
-        "winner": "Mapleton (Ashland)",
+        "winner": "Edison (Milan)",
         "team1Score": 1,
-        "team2Score": 2
+        "team2Score": 0
     },
     {
         "month": 9,
@@ -25738,15 +25792,6 @@
         "winner": "Hamilton",
         "team1Score": 2,
         "team2Score": 1
-    },
-    {
-        "month": 9,
-        "day": 28,
-        "team1": "Piqua",
-        "team2": "Sidney",
-        "winner": "Sidney",
-        "team1Score": 0,
-        "team2Score": 3
     },
     {
         "month": 9,
@@ -25818,6 +25863,15 @@
         "team2": "Troy Christian School",
         "winner": "Troy Christian School",
         "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 9,
+        "day": 29,
+        "team1": "Beavercreek",
+        "team2": "Wayne (Huber Heights)",
+        "winner": "Beavercreek",
+        "team1Score": 6,
         "team2Score": 1
     },
     {
@@ -26354,6 +26408,15 @@
     {
         "month": 9,
         "day": 29,
+        "team1": "Steubenville Catholic Central",
+        "team2": "Edison (Richmond)",
+        "winner": "Steubenville Catholic Central",
+        "team1Score": 5,
+        "team2Score": 1
+    },
+    {
+        "month": 9,
+        "day": 29,
         "team1": "Hiland (Berlin)",
         "team2": "Triway (Wooster)",
         "winner": "Hiland (Berlin)",
@@ -26377,6 +26440,24 @@
         "winner": "Goshen",
         "team1Score": 0,
         "team2Score": 3
+    },
+    {
+        "month": 9,
+        "day": 29,
+        "team1": "St. Clairsville",
+        "team2": "Carrollton",
+        "winner": "St. Clairsville",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 9,
+        "day": 29,
+        "team1": "East Liverpool",
+        "team2": "Oak Glen (New Cumberland, WV)",
+        "winner": "East Liverpool",
+        "team1Score": 3,
+        "team2Score": 0
     },
     {
         "month": 9,
@@ -26935,15 +27016,6 @@
         "winner": "Troy",
         "team1Score": 12,
         "team2Score": 0
-    },
-    {
-        "month": 9,
-        "day": 29,
-        "team1": "Wayne (Huber Heights)",
-        "team2": "Beavercreek",
-        "winner": "Beavercreek",
-        "team1Score": 1,
-        "team2Score": 6
     },
     {
         "month": 9,
@@ -27641,6 +27713,15 @@
     {
         "month": 10,
         "day": 1,
+        "team1": "Beavercreek",
+        "team2": "Miamisburg",
+        "winner": "Beavercreek",
+        "team1Score": 3,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 1,
         "team1": "Pickerington Central",
         "team2": "Groveport Madison",
         "winner": "Pickerington Central",
@@ -28118,6 +28199,24 @@
     {
         "month": 10,
         "day": 1,
+        "team1": "St. Clairsville",
+        "team2": "Brooke (Wellsburg, WV)",
+        "winner": "Brooke (Wellsburg, WV)",
+        "team1Score": 3,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 1,
+        "team1": "Beaver Local (East Liverpool)",
+        "team2": "Steubenville",
+        "winner": "Beaver Local (East Liverpool)",
+        "team1Score": 7,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 1,
         "team1": "Carrollton",
         "team2": "Harrison Central (Cadiz)",
         "winner": "Carrollton",
@@ -28415,9 +28514,9 @@
     {
         "month": 10,
         "day": 1,
-        "team1": "Cornerstone Christian Academy (Willoughby Hills)",
+        "team1": "Cornerstone Christian Academy (Mentor)",
         "team2": "Grand Valley (Orwell)",
-        "winner": "Cornerstone Christian Academy (Willoughby Hills)",
+        "winner": "Cornerstone Christian Academy (Mentor)",
         "team1Score": 1,
         "team2Score": 0
     },
@@ -28443,8 +28542,8 @@
         "month": 10,
         "day": 1,
         "team1": "Lutheran West (Rocky River)",
-        "team2": "Open Door Christian Academy",
-        "winner": "Open Door Christian Academy",
+        "team2": "Open Door Christian Academy (elyria)",
+        "winner": "Open Door Christian Academy (elyria)",
         "team1Score": 0,
         "team2Score": 2
     },
@@ -28622,15 +28721,6 @@
     {
         "month": 10,
         "day": 1,
-        "team1": "Miamisburg",
-        "team2": "Beavercreek",
-        "winner": "Beavercreek",
-        "team1Score": 2,
-        "team2Score": 3
-    },
-    {
-        "month": 10,
-        "day": 1,
         "team1": "Milford",
         "team2": "Winton Woods (Cincinnati)",
         "winner": "Milford",
@@ -28658,20 +28748,20 @@
     {
         "month": 10,
         "day": 1,
-        "team1": "Springfield",
-        "team2": "Wayne (Huber Heights)",
-        "winner": "Springfield",
-        "team1Score": 2,
+        "team1": "Sidney",
+        "team2": "Stebbins (Riverside)",
+        "winner": "Stebbins (Riverside)",
+        "team1Score": 0,
         "team2Score": 1
     },
     {
         "month": 10,
         "day": 1,
-        "team1": "Stebbins (Riverside)",
-        "team2": "Sidney",
-        "winner": "Stebbins (Riverside)",
-        "team1Score": 1,
-        "team2Score": 0
+        "team1": "Springfield",
+        "team2": "Wayne (Huber Heights)",
+        "winner": "Springfield",
+        "team1Score": 2,
+        "team2Score": 1
     },
     {
         "month": 10,
@@ -29022,6 +29112,15 @@
         "team2": "Middletown Christian School",
         "winner": "Twin Valley South (West Alexandria)",
         "team1Score": 8,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 1,
+        "team1": "Brooke (Wellsburg, WV)",
+        "team2": "Harrison Central (Cadiz)",
+        "winner": "Brooke (Wellsburg, WV)",
+        "team1Score": 3,
         "team2Score": 2
     },
     {
@@ -29495,11 +29594,38 @@
     {
         "month": 10,
         "day": 3,
+        "team1": "Steubenville Catholic Central",
+        "team2": "Steubenville",
+        "winner": "Steubenville",
+        "team1Score": 0,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 3,
+        "team1": "St. Clairsville",
+        "team2": "East Liverpool",
+        "winner": "",
+        "team1Score": 1,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 3,
         "team1": "Cincinnati Hills Christian Academy",
         "team2": "Badin (Hamilton)",
         "winner": "Cincinnati Hills Christian Academy",
         "team1Score": 3,
         "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 3,
+        "team1": "Beaver Local (East Liverpool)",
+        "team2": "Oak Glen (New Cumberland, WV)",
+        "winner": "Beaver Local (East Liverpool)",
+        "team1Score": 2,
+        "team2Score": 0
     },
     {
         "month": 10,
@@ -30323,15 +30449,6 @@
     {
         "month": 10,
         "day": 5,
-        "team1": "Marion-Franklin (Columbus)",
-        "team2": "Clear Fork (Bellville)",
-        "winner": "Clear Fork (Bellville)",
-        "team1Score": 0,
-        "team2Score": 4
-    },
-    {
-        "month": 10,
-        "day": 5,
         "team1": "Bloom-Carroll",
         "team2": "Amanda-Clearcreek",
         "winner": "Bloom-Carroll",
@@ -30658,9 +30775,9 @@
         "day": 5,
         "team1": "Westfall (Williamsport)",
         "team2": "Southeastern (Chillicothe)",
-        "winner": "Southeastern (Chillicothe)",
-        "team1Score": 0,
-        "team2Score": 12
+        "winner": "",
+        "team1Score": 2,
+        "team2Score": 2
     },
     {
         "month": 10,
@@ -30971,15 +31088,6 @@
     {
         "month": 10,
         "day": 5,
-        "team1": "Butler (Vandalia)",
-        "team2": "Sidney",
-        "winner": "Sidney",
-        "team1Score": 0,
-        "team2Score": 1
-    },
-    {
-        "month": 10,
-        "day": 5,
         "team1": "Mount Notre Dame (Cincinnati)",
         "team2": "Seton (Cincinnati)",
         "winner": "Mount Notre Dame (Cincinnati)",
@@ -31084,6 +31192,15 @@
         "winner": "Dublin Scioto",
         "team1Score": 1,
         "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 6,
+        "team1": "Beavercreek",
+        "team2": "Northmont (Clayton)",
+        "winner": "Beavercreek",
+        "team1Score": 5,
+        "team2Score": 0
     },
     {
         "month": 10,
@@ -31421,15 +31538,6 @@
     {
         "month": 10,
         "day": 6,
-        "team1": "Northmont (Clayton)",
-        "team2": "Beavercreek",
-        "winner": "Beavercreek",
-        "team1Score": 0,
-        "team2Score": 5
-    },
-    {
-        "month": 10,
-        "day": 6,
         "team1": "St. Francis de Sales School (Toledo)",
         "team2": "Central Catholic (Toledo)",
         "winner": "St. Francis de Sales School (Toledo)",
@@ -31646,6 +31754,15 @@
     {
         "month": 10,
         "day": 6,
+        "team1": "Steubenville Catholic Central",
+        "team2": "Wheeling Catholic Central (Wheeling, WV)",
+        "winner": "Wheeling Catholic Central (Wheeling, WV)",
+        "team1Score": 2,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 6,
         "team1": "Hiland (Berlin)",
         "team2": "Chippewa (Doylestown)",
         "winner": "Hiland (Berlin)",
@@ -31655,11 +31772,38 @@
     {
         "month": 10,
         "day": 6,
+        "team1": "St. Clairsville",
+        "team2": "Indian Creek (Wintersville)",
+        "winner": "",
+        "team1Score": 1,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 6,
+        "team1": "Beaver Local (East Liverpool)",
+        "team2": "Brooke (Wellsburg, WV)",
+        "winner": "Brooke (Wellsburg, WV)",
+        "team1Score": 0,
+        "team2Score": 6
+    },
+    {
+        "month": 10,
+        "day": 6,
         "team1": "Carrollton",
         "team2": "Marlington (Alliance)",
         "winner": "Marlington (Alliance)",
         "team1Score": 1,
         "team2Score": 8
+    },
+    {
+        "month": 10,
+        "day": 6,
+        "team1": "East Liverpool",
+        "team2": "Steubenville",
+        "winner": "Steubenville",
+        "team1Score": 1,
+        "team2Score": 3
     },
     {
         "month": 10,
@@ -31899,7 +32043,7 @@
         "month": 10,
         "day": 6,
         "team1": "Harvey (Painesville)",
-        "team2": "Cornerstone Christian Academy (Willoughby Hills)",
+        "team2": "Cornerstone Christian Academy (Mentor)",
         "winner": "Harvey (Painesville)",
         "team1Score": 9,
         "team2Score": 0
@@ -32398,6 +32542,15 @@
         "winner": "Waynesville",
         "team1Score": 1,
         "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 6,
+        "team1": "Caldwell",
+        "team2": "Harrison Central (Cadiz)",
+        "winner": "Harrison Central (Cadiz)",
+        "team1Score": 2,
+        "team2Score": 3
     },
     {
         "month": 10,
@@ -32996,6 +33149,15 @@
     {
         "month": 10,
         "day": 8,
+        "team1": "Beavercreek",
+        "team2": "Fairmont (Kettering)",
+        "winner": "Beavercreek",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 8,
         "team1": "Pickerington Central",
         "team2": "Westerville Central",
         "winner": "Westerville Central",
@@ -33009,15 +33171,6 @@
         "team2": "Westerville South",
         "winner": "Pickerington North",
         "team1Score": 3,
-        "team2Score": 1
-    },
-    {
-        "month": 10,
-        "day": 8,
-        "team1": "Chillicothe",
-        "team2": "Jackson",
-        "winner": "Chillicothe",
-        "team1Score": 4,
         "team2Score": 1
     },
     {
@@ -33473,6 +33626,15 @@
     {
         "month": 10,
         "day": 8,
+        "team1": "Steubenville Catholic Central",
+        "team2": "Oak Glen (New Cumberland, WV)",
+        "winner": "Steubenville Catholic Central",
+        "team1Score": 2,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 8,
         "team1": "Hiland (Berlin)",
         "team2": "Western Reserve Academy (Hudson)",
         "winner": "Western Reserve Academy (Hudson)",
@@ -33500,10 +33662,28 @@
     {
         "month": 10,
         "day": 8,
+        "team1": "St. Clairsville",
+        "team2": "Wheeling Park (Wheeling Park, WV)",
+        "winner": "Wheeling Park (Wheeling Park, WV)",
+        "team1Score": 0,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 8,
         "team1": "Cincinnati Hills Christian Academy",
         "team2": "Cincinnati Country Day School",
         "winner": "Cincinnati Country Day School",
         "team1Score": 0,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 8,
+        "team1": "Beaver Local (East Liverpool)",
+        "team2": "Heartland Christian School",
+        "winner": "Beaver Local (East Liverpool)",
+        "team1Score": 8,
         "team2Score": 2
     },
     {
@@ -33514,6 +33694,15 @@
         "winner": "John Glenn (New Concord)",
         "team1Score": 1,
         "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 8,
+        "team1": "East Liverpool",
+        "team2": "Brooke (Wellsburg, WV)",
+        "winner": "",
+        "team1Score": 1,
+        "team2Score": 1
     },
     {
         "month": 10,
@@ -33770,9 +33959,9 @@
     {
         "month": 10,
         "day": 8,
-        "team1": "Cornerstone Christian Academy (Willoughby Hills)",
+        "team1": "Cornerstone Christian Academy (Mentor)",
         "team2": "St. John High school (Ashtabula)",
-        "winner": "Cornerstone Christian Academy (Willoughby Hills)",
+        "winner": "Cornerstone Christian Academy (Mentor)",
         "team1Score": 6,
         "team2Score": 0
     },
@@ -33959,6 +34148,15 @@
     {
         "month": 10,
         "day": 8,
+        "team1": "Otsego (Bowling Green)",
+        "team2": "Woodmore (Elmore)",
+        "winner": "Woodmore (Elmore)",
+        "team1Score": 0,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 8,
         "team1": "Pettisville",
         "team2": "Emmanuel Christian School (Toledo)",
         "winner": "Pettisville",
@@ -34009,15 +34207,6 @@
         "winner": "Fairborn",
         "team1Score": 3,
         "team2Score": 0
-    },
-    {
-        "month": 10,
-        "day": 8,
-        "team1": "Fairmont (Kettering)",
-        "team2": "Beavercreek",
-        "winner": "Beavercreek",
-        "team1Score": 0,
-        "team2Score": 3
     },
     {
         "month": 10,
@@ -34121,20 +34310,20 @@
     {
         "month": 10,
         "day": 8,
-        "team1": "Western Hills (Cincinnati)",
-        "team2": "Reading",
-        "winner": "Reading",
-        "team1Score": 2,
-        "team2Score": 6
+        "team1": "Sidney",
+        "team2": "Xenia",
+        "winner": "",
+        "team1Score": 3,
+        "team2Score": 3
     },
     {
         "month": 10,
         "day": 8,
-        "team1": "Xenia",
-        "team2": "Sidney",
-        "winner": "",
+        "team1": "Western Hills (Cincinnati)",
+        "team2": "Reading",
+        "winner": "Reading",
         "team1Score": 3,
-        "team2Score": 3
+        "team2Score": 4
     },
     {
         "month": 10,
@@ -34339,9 +34528,9 @@
         "day": 8,
         "team1": "Harvey (Painesville)",
         "team2": "Cardinal (Middlefield)",
-        "winner": "Cardinal (Middlefield)",
+        "winner": "",
         "team1Score": 1,
-        "team2Score": 4
+        "team2Score": 1
     },
     {
         "month": 10,
@@ -34601,8 +34790,8 @@
         "team1": "Harding (Marion)",
         "team2": "Granville Christian Academy",
         "winner": "Harding (Marion)",
-        "team1Score": 4,
-        "team2Score": 1
+        "team1Score": 3,
+        "team2Score": 2
     },
     {
         "month": 10,
@@ -35421,7 +35610,7 @@
         "team2": "Swanton",
         "winner": "Swanton",
         "team1Score": 0,
-        "team2Score": 4
+        "team2Score": 5
     },
     {
         "month": 10,
@@ -35602,15 +35791,6 @@
         "winner": "Tuslaw (Massillon)",
         "team1Score": 0,
         "team2Score": 3
-    },
-    {
-        "month": 10,
-        "day": 10,
-        "team1": "Crestview (Convoy)",
-        "team2": "Spencerville",
-        "winner": "Spencerville",
-        "team1Score": 0,
-        "team2Score": 7
     },
     {
         "month": 10,
@@ -35816,8 +35996,8 @@
         "team1": "Piketon",
         "team2": "Southeastern (Chillicothe)",
         "winner": "Southeastern (Chillicothe)",
-        "team1Score": 0,
-        "team2Score": 9
+        "team1Score": 3,
+        "team2Score": 5
     },
     {
         "month": 10,
@@ -36110,6 +36290,24 @@
     {
         "month": 10,
         "day": 12,
+        "team1": "East Liverpool",
+        "team2": "Harrison Central (Cadiz)",
+        "winner": "East Liverpool",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 12,
+        "team1": "Steubenville",
+        "team2": "Madonna (Weirton, WV)",
+        "winner": "Steubenville",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 12,
         "team1": "Highland (Medina)",
         "team2": "Hathaway Brown (Shaker Heights)",
         "winner": "Hathaway Brown (Shaker Heights)",
@@ -36213,6 +36411,15 @@
         "team2": "The Wellington School (Columbus)",
         "winner": "Worthington Christian School",
         "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 13,
+        "team1": "Beavercreek",
+        "team2": "Miamisburg",
+        "winner": "Beavercreek",
+        "team1Score": 4,
         "team2Score": 0
     },
     {
@@ -36824,7 +37031,7 @@
         "team1": "Green (Uniontown)",
         "team2": "McKinley (Canton)",
         "winner": "Green (Uniontown)",
-        "team1Score": 3,
+        "team1Score": 9,
         "team2Score": 0
     },
     {
@@ -37352,15 +37559,6 @@
     {
         "month": 10,
         "day": 13,
-        "team1": "Miamisburg",
-        "team2": "Beavercreek",
-        "winner": "Beavercreek",
-        "team1Score": 0,
-        "team2Score": 4
-    },
-    {
-        "month": 10,
-        "day": 13,
         "team1": "Piqua",
         "team2": "Stebbins (Riverside)",
         "winner": "",
@@ -37370,11 +37568,11 @@
     {
         "month": 10,
         "day": 13,
-        "team1": "Troy",
-        "team2": "Sidney",
+        "team1": "Sidney",
+        "team2": "Troy",
         "winner": "Troy",
-        "team1Score": 5,
-        "team2Score": 1
+        "team1Score": 1,
+        "team2Score": 5
     },
     {
         "month": 10,
@@ -37382,8 +37580,8 @@
         "team1": "Western Hills (Cincinnati)",
         "team2": "Walnut Hills (Cincinnati)",
         "winner": "Walnut Hills (Cincinnati)",
-        "team1Score": 2,
-        "team2Score": 6
+        "team1Score": 3,
+        "team2Score": 4
     },
     {
         "month": 10,
@@ -37959,7 +38157,7 @@
         "team2": "Berea-Midpark",
         "winner": "Berea-Midpark",
         "team1Score": 0,
-        "team2Score": 3
+        "team2Score": 1
     },
     {
         "month": 10,
@@ -38207,6 +38405,15 @@
     {
         "month": 10,
         "day": 15,
+        "team1": "Beavercreek",
+        "team2": "Centerville",
+        "winner": "Beavercreek",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 15,
         "team1": "Westerville Central",
         "team2": "Groveport Madison",
         "winner": "Westerville Central",
@@ -38428,15 +38635,6 @@
         "winner": "Morgan (McConnelsville)",
         "team1Score": 3,
         "team2Score": 1
-    },
-    {
-        "month": 10,
-        "day": 15,
-        "team1": "Centerville",
-        "team2": "Beavercreek",
-        "winner": "Beavercreek",
-        "team1Score": 1,
-        "team2Score": 2
     },
     {
         "month": 10,
@@ -38702,6 +38900,15 @@
     {
         "month": 10,
         "day": 15,
+        "team1": "Steubenville Catholic Central",
+        "team2": "Wheeling Park (Wheeling Park, WV)",
+        "winner": "Wheeling Park (Wheeling Park, WV)",
+        "team1Score": 0,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 15,
         "team1": "Hiland (Berlin)",
         "team2": "Central Christian School (Kidron)",
         "winner": "Hiland (Berlin)",
@@ -38729,8 +38936,26 @@
     {
         "month": 10,
         "day": 15,
+        "team1": "St. Clairsville",
+        "team2": "Trinity Christian School (Morgantown, WV)",
+        "winner": "St. Clairsville",
+        "team1Score": 4,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 15,
         "team1": "Cincinnati Hills Christian Academy",
         "team2": "Seven Hills (Cincinnati)",
+        "winner": "",
+        "team1Score": 1,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 15,
+        "team1": "Beaver Local (East Liverpool)",
+        "team2": "The Linsly School (Wheeling, WV)",
         "winner": "",
         "team1Score": 1,
         "team2Score": 1
@@ -38742,6 +38967,15 @@
         "team2": "Alliance",
         "winner": "Carrollton",
         "team1Score": 3,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 15,
+        "team1": "East Liverpool",
+        "team2": "Salem",
+        "winner": "East Liverpool",
+        "team1Score": 2,
         "team2Score": 1
     },
     {
@@ -39206,6 +39440,15 @@
     {
         "month": 10,
         "day": 15,
+        "team1": "Sidney",
+        "team2": "West Carrollton",
+        "winner": "Sidney",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 15,
         "team1": "Stebbins (Riverside)",
         "team2": "Xenia",
         "winner": "",
@@ -39229,15 +39472,6 @@
         "winner": "Tippecanoe",
         "team1Score": 2,
         "team2Score": 4
-    },
-    {
-        "month": 10,
-        "day": 15,
-        "team1": "West Carrollton",
-        "team2": "Sidney",
-        "winner": "Sidney",
-        "team1Score": 0,
-        "team2Score": 3
     },
     {
         "month": 10,
@@ -39602,6 +39836,15 @@
     {
         "month": 10,
         "day": 17,
+        "team1": "Tri-Valley (Dresden)",
+        "team2": "Morgan (McConnelsville)",
+        "winner": "Morgan (McConnelsville)",
+        "team1Score": 1,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 17,
         "team1": "Logan",
         "team2": "Marietta",
         "winner": "Marietta",
@@ -39625,6 +39868,15 @@
         "winner": "Dover",
         "team1Score": 0,
         "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 17,
+        "team1": "Bishop Rosecrans",
+        "team2": "Monroe Central (Woodsfield)",
+        "winner": "Bishop Rosecrans",
+        "team1Score": 7,
+        "team2Score": 0
     },
     {
         "month": 10,
@@ -39692,11 +39944,83 @@
     {
         "month": 10,
         "day": 17,
+        "team1": "Zane Trace (Chillicothe)",
+        "team2": "Peebles",
+        "winner": "Zane Trace (Chillicothe)",
+        "team1Score": 4,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 17,
+        "team1": "Portsmouth",
+        "team2": "Belpre",
+        "winner": "Belpre",
+        "team1Score": 1,
+        "team2Score": 10
+    },
+    {
+        "month": 10,
+        "day": 17,
         "team1": "Warren (Vincent)",
         "team2": "John Glenn (New Concord)",
         "winner": "",
         "team1Score": 1,
         "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 17,
+        "team1": "Fairfield (Leesburg)",
+        "team2": "Clay (Portsmouth)",
+        "winner": "Fairfield (Leesburg)",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 17,
+        "team1": "Glenwood (New Boston)",
+        "team2": "Westfall (Williamsport)",
+        "winner": "Glenwood (New Boston)",
+        "team1Score": 8,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 17,
+        "team1": "Piketon",
+        "team2": "Fairland (Proctorville)",
+        "winner": "Piketon",
+        "team1Score": 4,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 17,
+        "team1": "Eastern (Sardinia)",
+        "team2": "Southeastern (Chillicothe)",
+        "winner": "Eastern (Sardinia)",
+        "team1Score": 6,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 17,
+        "team1": "South Webster",
+        "team2": "West Union",
+        "winner": "South Webster",
+        "team1Score": 9,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 17,
+        "team1": "Valley (Lucasville)",
+        "team2": "OSSCA Admin",
+        "winner": "Valley (Lucasville)",
+        "team1Score": 18,
+        "team2Score": 2
     },
     {
         "month": 10,
@@ -39710,11 +40034,29 @@
     {
         "month": 10,
         "day": 17,
+        "team1": "Edison (Richmond)",
+        "team2": "Caldwell",
+        "winner": "Caldwell",
+        "team1Score": 1,
+        "team2Score": 6
+    },
+    {
+        "month": 10,
+        "day": 17,
         "team1": "Hoover (North Canton)",
         "team2": "Cuyahoga Falls",
         "winner": "Hoover (North Canton)",
         "team1Score": 6,
         "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 17,
+        "team1": "Washington (Massillon)",
+        "team2": "McKinley (Canton)",
+        "winner": "McKinley (Canton)",
+        "team1Score": 0,
+        "team2Score": 6
     },
     {
         "month": 10,
@@ -39837,7 +40179,7 @@
         "month": 10,
         "day": 17,
         "team1": "Harvey (Painesville)",
-        "team2": "Open Door Christian Academy",
+        "team2": "Open Door Christian Academy (elyria)",
         "winner": "Harvey (Painesville)",
         "team1Score": 4,
         "team2Score": 0
@@ -40036,9 +40378,9 @@
         "day": 17,
         "team1": "St. Thomas Aquinas (Louisville)",
         "team2": "Sandy Valley (Magnolia)",
-        "winner": "St. Thomas Aquinas (Louisville)",
-        "team1Score": 1,
-        "team2Score": 0
+        "winner": "Sandy Valley (Magnolia)",
+        "team1Score": 0,
+        "team2Score": 1
     },
     {
         "month": 10,
@@ -40105,6 +40447,510 @@
     },
     {
         "month": 10,
+        "day": 19,
+        "team1": "Butler (Vandalia)",
+        "team2": "Northmont (Clayton)",
+        "winner": "Northmont (Clayton)",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Bellefontaine",
+        "team2": "Milton-Union (West Milton)",
+        "winner": "Milton-Union (West Milton)",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Zanesville",
+        "team2": "Cambridge",
+        "winner": "Cambridge",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Carroll (Dayton)",
+        "team2": "West Carrollton",
+        "winner": "Carroll (Dayton)",
+        "team1Score": 3,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Lexington",
+        "team2": "Clyde",
+        "winner": "Lexington",
+        "team1Score": 13,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Miami Trace (Washington Court House)",
+        "team2": "Sheridan (Thornville)",
+        "winner": "Miami Trace (Washington Court House)",
+        "team1Score": 6,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "West Liberty-Salem",
+        "team2": "Catholic Central (Springfield)",
+        "winner": "West Liberty-Salem",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Upper Sandusky",
+        "team2": "Memorial (St. Marys)",
+        "winner": "Memorial (St. Marys)",
+        "team1Score": 0,
+        "team2Score": 11
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Columbian (Tiffin)",
+        "team2": "Ontario",
+        "winner": "Ontario",
+        "team1Score": 0,
+        "team2Score": 12
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Georgetown",
+        "team2": "Reading",
+        "winner": "Georgetown",
+        "team1Score": 5,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Fayetteville-Perry",
+        "team2": "Madeira",
+        "winner": "Madeira",
+        "team1Score": 0,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Beaver Local (East Liverpool)",
+        "team2": "Union Local (Belmont)",
+        "winner": "Beaver Local (East Liverpool)",
+        "team1Score": 17,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Carrollton",
+        "team2": "Minerva",
+        "winner": "Minerva",
+        "team1Score": 1,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Springfield (Akron)",
+        "team2": "Hawken (Chesterland)",
+        "winner": "Hawken (Chesterland)",
+        "team1Score": 0,
+        "team2Score": 7
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Central Catholic (Toledo)",
+        "team2": "Port Clinton",
+        "winner": "Central Catholic (Toledo)",
+        "team1Score": 8,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Bryan",
+        "team2": "Maumee",
+        "winner": "Bryan",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Defiance",
+        "team2": "Wapakoneta",
+        "winner": "Wapakoneta",
+        "team1Score": 0,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Ottawa-Glandorf",
+        "team2": "Van Wert",
+        "winner": "Ottawa-Glandorf",
+        "team1Score": 8,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Rossford",
+        "team2": "Lake (Millbury)",
+        "winner": "Lake (Millbury)",
+        "team1Score": 1,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Clear Fork (Bellville)",
+        "team2": "Galion",
+        "winner": "Clear Fork (Bellville)",
+        "team1Score": 4,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Fairborn",
+        "team2": "Fairmont (Kettering)",
+        "winner": "Fairmont (Kettering)",
+        "team1Score": 0,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Greenville",
+        "team2": "Tippecanoe",
+        "winner": "Tippecanoe",
+        "team1Score": 0,
+        "team2Score": 6
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Lebanon",
+        "team2": "Miamisburg",
+        "winner": "",
+        "team1Score": 1,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Piqua",
+        "team2": "Springboro",
+        "winner": "Springboro",
+        "team1Score": 1,
+        "team2Score": 8
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Sidney",
+        "team2": "Wayne (Huber Heights)",
+        "winner": "Sidney",
+        "team1Score": 4,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Springfield",
+        "team2": "Troy",
+        "winner": "Troy",
+        "team1Score": 2,
+        "team2Score": 6
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Badin (Hamilton)",
+        "team2": "Eaton",
+        "winner": "Badin (Hamilton)",
+        "team1Score": 4,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Bellbrook",
+        "team2": "Franklin",
+        "winner": "Bellbrook",
+        "team1Score": 14,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Brookville",
+        "team2": "Jackson Center",
+        "winner": "Brookville",
+        "team1Score": 5,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Chaminade-Julienne (Dayton)",
+        "team2": "Waynesville",
+        "winner": "Chaminade-Julienne (Dayton)",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Finneytown (Cincinnati)",
+        "team2": "Cincinnati Christian School",
+        "winner": "Finneytown (Cincinnati)",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Greenon (Springfield)",
+        "team2": "Fairlawn",
+        "winner": "Greenon (Springfield)",
+        "team1Score": 15,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Alter (Kettering)",
+        "team2": "Bishop Fenwick (Franklin)",
+        "winner": "Alter (Kettering)",
+        "team1Score": 5,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Purcell-Marian (Cincinnati)",
+        "team2": "Seven Hills (Cincinnati)",
+        "winner": "Seven Hills (Cincinnati)",
+        "team1Score": 0,
+        "team2Score": 13
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Ross (Hamilton)",
+        "team2": "Valley View (Germantown)",
+        "winner": "Ross (Hamilton)",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Northwestern (Springfield)",
+        "team2": "Urbana",
+        "winner": "Northwestern (Springfield)",
+        "team1Score": 5,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Cincinnati Country Day School",
+        "team2": "Williamsburg",
+        "winner": "Cincinnati Country Day School",
+        "team1Score": 9,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Dayton Christian School",
+        "team2": "Preble Shawnee (Gratis)",
+        "winner": "Dayton Christian School",
+        "team1Score": 11,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Deer Park (Cincinnati)",
+        "team2": "Felicity-Franklin",
+        "winner": "Deer Park (Cincinnati)",
+        "team1Score": 3,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Dixie (New Lebanon)",
+        "team2": "Yellow Springs",
+        "winner": "Yellow Springs",
+        "team1Score": 1,
+        "team2Score": 7
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Greeneview (Jamestown)",
+        "team2": "Newton (Pleasant Hill)",
+        "winner": "Greeneview (Jamestown)",
+        "team1Score": 4,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Lehman Catholic (Sidney)",
+        "team2": "Troy Christian School",
+        "winner": "Troy Christian School",
+        "team1Score": 0,
+        "team2Score": 6
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Oakwood",
+        "team2": "Ponitz Career Technology Center (Dayton)",
+        "winner": "Oakwood",
+        "team1Score": 7,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Stivers (Dayton)",
+        "team2": "Botkins",
+        "winner": "Botkins",
+        "team1Score": 0,
+        "team2Score": 14
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Morgan (McConnelsville)",
+        "team2": "Harrison Central (Cadiz)",
+        "winner": "Morgan (McConnelsville)",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Alliance",
+        "team2": "Struthers",
+        "winner": "Alliance",
+        "team1Score": 4,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Hubbard",
+        "team2": "Girard",
+        "winner": "Hubbard",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Beachwood",
+        "team2": "Laurel School (Shaker Heights)",
+        "winner": "Beachwood",
+        "team1Score": 3,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Hillsdale (Jeromesville)",
+        "team2": "Mapleton (Ashland)",
+        "winner": "Mapleton (Ashland)",
+        "team1Score": 2,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Waynedale (Apple Creek)",
+        "team2": "Tuslaw (Massillon)",
+        "winner": "Waynedale (Apple Creek)",
+        "team1Score": 7,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 19,
+        "team1": "Zane Trace (Chillicothe)",
+        "team2": "Chesapeake",
+        "winner": "Zane Trace (Chillicothe)",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Olentangy (Lewis Center)",
+        "team2": "Westland (Galloway)",
+        "winner": "Olentangy (Lewis Center)",
+        "team1Score": 4,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Delaware Hayes",
+        "team2": "Logan",
+        "winner": "Delaware Hayes",
+        "team1Score": 3,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Pickerington Central",
+        "team2": "Hilliard Darby",
+        "winner": "Hilliard Darby",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Reynoldsburg",
+        "team2": "Mount Vernon",
+        "winner": "Reynoldsburg",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Worthington Kilbourne (Columbus)",
+        "team2": "Newark",
+        "winner": "Worthington Kilbourne (Columbus)",
+        "team1Score": 6,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
         "day": 20,
         "team1": "Briggs (Columbus)",
         "team2": "Northland (Columbus)",
@@ -40115,11 +40961,65 @@
     {
         "month": 10,
         "day": 20,
+        "team1": "Canal Winchester",
+        "team2": "Teays Valley (Ashville)",
+        "winner": "Canal Winchester",
+        "team1Score": 2,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "West Geauga (Chesterland)",
+        "team2": "Girard",
+        "winner": "West Geauga (Chesterland)",
+        "team1Score": 2,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Anthony Wayne (Whitehouse)",
+        "team2": "Madison (Mansfield)",
+        "winner": "Anthony Wayne (Whitehouse)",
+        "team1Score": 10,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 20,
         "team1": "Mansfield Christian School",
         "team2": "West Holmes (Millersburg)",
         "winner": "West Holmes (Millersburg)",
         "team1Score": 1,
         "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Bishop Rosecrans",
+        "team2": "Hiland (Berlin)",
+        "winner": "Hiland (Berlin)",
+        "team1Score": 1,
+        "team2Score": 11
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Southview (Sylvania)",
+        "team2": "St. Francis de Sales School (Toledo)",
+        "winner": "St. Francis de Sales School (Toledo)",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Northview (Sylvania)",
+        "team2": "Ross (Fremont)",
+        "winner": "Northview (Sylvania)",
+        "team1Score": 12,
+        "team2Score": 0
     },
     {
         "month": 10,
@@ -40142,6 +41042,123 @@
     {
         "month": 10,
         "day": 20,
+        "team1": "Loudonville",
+        "team2": "Northwestern (West Salem)",
+        "winner": "Northwestern (West Salem)",
+        "team1Score": 0,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Tuscarawas Valley (Zoarville)",
+        "team2": "Sandy Valley (Magnolia)",
+        "winner": "Sandy Valley (Magnolia)",
+        "team1Score": 0,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "St. Vincent St. Mary (Akron)",
+        "team2": "Triway (Wooster)",
+        "winner": "St. Vincent St. Mary (Akron)",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Aurora",
+        "team2": "Jefferson Area",
+        "winner": "Aurora",
+        "team1Score": 11,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Beachwood",
+        "team2": "Firelands (Oberlin)",
+        "winner": "Beachwood",
+        "team1Score": 3,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Northwest (Canal Fulton)",
+        "team2": "Fairless (Navarre)",
+        "winner": "Northwest (Canal Fulton)",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Canton South",
+        "team2": "Louisville",
+        "winner": "Louisville",
+        "team1Score": 0,
+        "team2Score": 8
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Coventry (Akron)",
+        "team2": "Rocky River",
+        "winner": "Rocky River",
+        "team1Score": 0,
+        "team2Score": 8
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Hubbard",
+        "team2": "Lakeview (Cortland)",
+        "winner": "Lakeview (Cortland)",
+        "team1Score": 1,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Lake Catholic (Mentor)",
+        "team2": "Notre Dame Cathedral Latin (Chardon)",
+        "winner": "Notre Dame Cathedral Latin (Chardon)",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Marlington (Alliance)",
+        "team2": "McKinley (Niles)",
+        "winner": "Marlington (Alliance)",
+        "team1Score": 9,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Orange (Pepper Pike)",
+        "team2": "Woodridge (Peninsula)",
+        "winner": "Orange (Pepper Pike)",
+        "team1Score": 5,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Padua (Parma)",
+        "team2": "Lutheran West (Rocky River)",
+        "winner": "Lutheran West (Rocky River)",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 20,
         "team1": "Perry",
         "team2": "Gilmour Academy (Gates Mills)",
         "winner": "Gilmour Academy (Gates Mills)",
@@ -40151,11 +41168,794 @@
     {
         "month": 10,
         "day": 20,
+        "team1": "Ravenna",
+        "team2": "Salem",
+        "winner": "Salem",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Southeast (Ravenna)",
+        "team2": "West Branch (Beloit)",
+        "winner": "West Branch (Beloit)",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Berkshire",
+        "team2": "Garfield (Garrettsville)",
+        "winner": "Berkshire",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Bristol",
+        "team2": "East Palestine",
+        "winner": "East Palestine",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Brooklyn",
+        "team2": "Cuyahoga Heights",
+        "winner": "Cuyahoga Heights",
+        "team1Score": 1,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Cardinal",
+        "team2": "Chippewa (Doylestown)",
+        "winner": "Chippewa (Doylestown)",
+        "team1Score": 1,
+        "team2Score": 6
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Columbia",
+        "team2": "Elyria Catholic",
+        "winner": "Elyria Catholic",
+        "team1Score": 2,
+        "team2Score": 9
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Cornerstone Christian Academy (Mentor)",
+        "team2": "Wellington",
+        "winner": "Cornerstone Christian Academy (Mentor)",
+        "team1Score": 5,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Grand Valley (Orwell)",
+        "team2": "Brookfield",
+        "winner": "Grand Valley (Orwell)",
+        "team1Score": 8,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Lordstown",
+        "team2": "Mineral Ridge",
+        "winner": "Mineral Ridge",
+        "team1Score": 1,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Newton Falls",
+        "team2": "Wickliffe",
+        "winner": "Wickliffe",
+        "team1Score": 4,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Rittman",
+        "team2": "Jackson-Milton (North Jackson)",
+        "winner": "Rittman",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Rootstown",
+        "team2": "Tuslaw (Massillon)",
+        "winner": "Rootstown",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Lima Senior",
+        "team2": "Whitmer (Toledo)",
+        "winner": "Whitmer (Toledo)",
+        "team1Score": 0,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Memorial (CAMPBELL)",
+        "team2": "St. John High school (Ashtabula)",
+        "winner": "St. John High school (Ashtabula)",
+        "team1Score": 0,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Steubenville Catholic Central",
+        "team2": "Ridgewood (West Lafayette)",
+        "winner": "Steubenville Catholic Central",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Hiland (Berlin)",
+        "team2": "Sandy Valley (Magnolia)",
+        "winner": "Hiland (Berlin)",
+        "team1Score": 7,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Wadsworth",
+        "team2": "Hathaway Brown (Shaker Heights)",
+        "winner": "Hathaway Brown (Shaker Heights)",
+        "team1Score": 1,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Crestview (Convoy)",
+        "team2": "Jefferson (Delphos)",
+        "winner": "Crestview (Convoy)",
+        "team1Score": 4,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Upper Sandusky",
+        "team2": "Willard",
+        "winner": "Upper Sandusky",
+        "team1Score": 8,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "St. John's (Delphos)",
+        "team2": "Spencerville",
+        "winner": "St. John's (Delphos)",
+        "team1Score": 4,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Continental",
+        "team2": "Delta",
+        "winner": "Delta",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Miller City",
+        "team2": "Evergreen (Metamora)",
+        "winner": "Evergreen (Metamora)",
+        "team1Score": 0,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 20,
         "team1": "Marietta",
         "team2": "Sheridan (Thornville)",
         "winner": "Marietta",
         "team1Score": 8,
         "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Unioto (Chillicothe)",
+        "team2": "Washington",
+        "winner": "Unioto (Chillicothe)",
+        "team1Score": 11,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Madison (Middletown)",
+        "team2": "Southeastern (South Charleston)",
+        "winner": "Madison (Middletown)",
+        "team1Score": 5,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Twin Valley South (West Alexandria)",
+        "team2": "Middletown Christian School",
+        "winner": "Twin Valley South (West Alexandria)",
+        "team1Score": 5,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Allen East (Harrod)",
+        "team2": "Columbus Grove",
+        "winner": "Columbus Grove",
+        "team1Score": 1,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 20,
+        "team1": "Berea-Midpark",
+        "team2": "Garfield Heights",
+        "winner": "Berea-Midpark",
+        "team1Score": 9,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Bloom-Carroll",
+        "team2": "Amanda-Clearcreek",
+        "winner": "Bloom-Carroll",
+        "team1Score": 10,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Hamilton Township (Columbus)",
+        "team2": "River Valley (Caledonia)",
+        "winner": "Hamilton Township (Columbus)",
+        "team1Score": 2,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "St. Francis DeSales (Columbus)",
+        "team2": "Heath",
+        "winner": "St. Francis DeSales (Columbus)",
+        "team1Score": 7,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Coshocton",
+        "team2": "Steubenville Catholic Central",
+        "winner": "Steubenville Catholic Central",
+        "team1Score": 0,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "West Muskingum (Zanesville)",
+        "team2": "Caldwell",
+        "winner": "West Muskingum (Zanesville)",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Johnstown-Monroe",
+        "team2": "London",
+        "winner": "Johnstown-Monroe",
+        "team1Score": 4,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Granville",
+        "team2": "Lakewood (Hebron)",
+        "winner": "Granville",
+        "team1Score": 11,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "St. Peter's (Mansfield)",
+        "team2": "Willard",
+        "winner": "Willard",
+        "team1Score": 2,
+        "team2Score": 8
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Zane Trace (Chillicothe)",
+        "team2": "St. Joseph Central (Ironton)",
+        "winner": "St. Joseph Central (Ironton)",
+        "team1Score": 0,
+        "team2Score": 7
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Northwest (McDermott)",
+        "team2": "Valley (Lucasville)",
+        "winner": "Valley (Lucasville)",
+        "team1Score": 1,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "South Point",
+        "team2": "Belpre",
+        "winner": "South Point",
+        "team1Score": 7,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Fairfield (Leesburg)",
+        "team2": "Lynchburg-Clay",
+        "winner": "Lynchburg-Clay",
+        "team1Score": 0,
+        "team2Score": 6
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Glenwood (New Boston)",
+        "team2": "Minford",
+        "winner": "Minford",
+        "team1Score": 0,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "North Adams (Seaman)",
+        "team2": "Eastern (Sardinia)",
+        "winner": "North Adams (Seaman)",
+        "team1Score": 6,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Piketon",
+        "team2": "Wheelersburg",
+        "winner": "Wheelersburg",
+        "team1Score": 0,
+        "team2Score": 17
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "South Webster",
+        "team2": "Rock Hill (Ironton)",
+        "winner": "South Webster",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Perry (Massillon)",
+        "team2": "Washington (Massillon)",
+        "winner": "Perry (Massillon)",
+        "team1Score": 5,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Stow",
+        "team2": "Roosevelt (Kent)",
+        "winner": "Stow",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "GlenOak (Canton)",
+        "team2": "Nordonia",
+        "winner": "GlenOak (Canton)",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Boardman (Youngstown)",
+        "team2": "North (Akron)",
+        "winner": "Boardman (Youngstown)",
+        "team1Score": 7,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Barberton",
+        "team2": "Valley Forge (Parma Heights)",
+        "winner": "Valley Forge (Parma Heights)",
+        "team1Score": 2,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Fitch (Austintown)",
+        "team2": "Mayfield",
+        "winner": "Fitch (Austintown)",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Steele (Amherst)",
+        "team2": "Brecksville-Broadview Heights",
+        "winner": "Brecksville-Broadview Heights",
+        "team1Score": 2,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Brush (Lyndhurst)",
+        "team2": "Madison",
+        "winner": "Brush (Lyndhurst)",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Chardon",
+        "team2": "Alliance",
+        "winner": "Chardon",
+        "team1Score": 12,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Cleveland Heights",
+        "team2": "North Ridgeville",
+        "winner": "North Ridgeville",
+        "team1Score": 0,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Cuyahoga Falls",
+        "team2": "Warren G. Harding",
+        "winner": "Warren G. Harding",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Euclid",
+        "team2": "Harvey (Painesville)",
+        "winner": "Harvey (Painesville)",
+        "team1Score": 0,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Geneva",
+        "team2": "Lakeside (Ashtabula)",
+        "winner": "Geneva",
+        "team1Score": 6,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Normandy (Parma)",
+        "team2": "North Royalton",
+        "winner": "North Royalton",
+        "team1Score": 1,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Riverside (Painesville)",
+        "team2": "Willoughby South",
+        "winner": "Riverside (Painesville)",
+        "team1Score": 7,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Bath (Lima)",
+        "team2": "New Knoxville",
+        "winner": "Bath (Lima)",
+        "team1Score": 5,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Eastwood (Pemberville)",
+        "team2": "Cory-Rawson",
+        "winner": "Cory-Rawson",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Ada",
+        "team2": "Otsego (Bowling Green)",
+        "winner": "Ada",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Cardinal Stritch (Oregon)",
+        "team2": "Emmanuel Christian School (Toledo)",
+        "winner": "Cardinal Stritch (Oregon)",
+        "team1Score": 7,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Fort Jennings",
+        "team2": "Allen East (Harrod)",
+        "winner": "Allen East (Harrod)",
+        "team1Score": 0,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Genoa",
+        "team2": "Delta",
+        "winner": "Genoa",
+        "team1Score": 5,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Kalida",
+        "team2": "Lima Central Catholic",
+        "winner": "Kalida",
+        "team1Score": 5,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Old Fort",
+        "team2": "Woodmore (Elmore)",
+        "winner": "Woodmore (Elmore)",
+        "team1Score": 0,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Pettisville",
+        "team2": "Swanton",
+        "winner": "",
+        "team1Score": 2,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Temple Christian School (Lima)",
+        "team2": "Spencerville",
+        "winner": "Spencerville",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Teays Valley (Ashville)",
+        "team2": "Olentangy Berlin (Delaware)",
+        "winner": "Olentangy Berlin (Delaware)",
+        "team1Score": 0,
+        "team2Score": 6
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Madison (Mansfield)",
+        "team2": "Galion",
+        "winner": "Madison (Mansfield)",
+        "team1Score": 11,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Harding (Marion)",
+        "team2": "Olentangy Orange (Lewis Center)",
+        "winner": "Olentangy Orange (Lewis Center)",
+        "team1Score": 0,
+        "team2Score": 10
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Liberty Center",
+        "team2": "Evergreen (Metamora)",
+        "winner": "Evergreen (Metamora)",
+        "team1Score": 0,
+        "team2Score": 6
+    },
+    {
+        "month": 10,
+        "day": 21,
+        "team1": "Lincolnview (Van Wert)",
+        "team2": "Paulding",
+        "winner": "Lincolnview (Van Wert)",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Olentangy (Lewis Center)",
+        "team2": "Upper Arlington",
+        "winner": "Upper Arlington",
+        "team1Score": 1,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Delaware Hayes",
+        "team2": "New Albany",
+        "winner": "New Albany",
+        "team1Score": 0,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Big Walnut (Sunbury)",
+        "team2": "Licking Heights (Pataskala)",
+        "winner": "Big Walnut (Sunbury)",
+        "team1Score": 4,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Dublin Jerome",
+        "team2": "Groveport Madison",
+        "winner": "Dublin Jerome",
+        "team1Score": 2,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Beavercreek",
+        "team2": "Sidney",
+        "winner": "Beavercreek",
+        "team1Score": 5,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Pickerington North",
+        "team2": "Canal Winchester",
+        "winner": "Pickerington North",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Chillicothe",
+        "team2": "Hilliard Darby",
+        "winner": "Hilliard Darby",
+        "team1Score": 0,
+        "team2Score": 6
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Dublin Scioto",
+        "team2": "Worthington Kilbourne (Columbus)",
+        "winner": "Worthington Kilbourne (Columbus)",
+        "team1Score": 0,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Westerville Central",
+        "team2": "Westerville South",
+        "winner": "Westerville Central",
+        "team1Score": 4,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Reynoldsburg",
+        "team2": "Olentangy Berlin (Delaware)",
+        "winner": "Olentangy Berlin (Delaware)",
+        "team1Score": 0,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Olentangy Liberty (Powell)",
+        "team2": "Harding (Marion)",
+        "winner": "Olentangy Liberty (Powell)",
+        "team1Score": 11,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Coffman (Dublin)",
+        "team2": "Lancaster",
+        "winner": "Coffman (Dublin)",
+        "team1Score": 6,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "West Jefferson",
+        "team2": "Bishop Ready (Columbus)",
+        "winner": "Bishop Ready (Columbus)",
+        "team1Score": 0,
+        "team2Score": 3
     },
     {
         "month": 10,
@@ -40169,11 +41969,254 @@
     {
         "month": 10,
         "day": 22,
+        "team1": "Harvest Prep Academy (Canal WInchester)",
+        "team2": "Madison Christian School (Groveport)",
+        "winner": "Madison Christian School (Groveport)",
+        "team1Score": 1,
+        "team2Score": 8
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "River View (Warsaw)",
+        "team2": "Cambridge",
+        "winner": "River View (Warsaw)",
+        "team1Score": 6,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Mansfield Senior",
+        "team2": "Lexington",
+        "winner": "Lexington",
+        "team1Score": 0,
+        "team2Score": 14
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Marietta",
+        "team2": "Warren (Vincent)",
+        "winner": "Warren (Vincent)",
+        "team1Score": 3,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Celina",
+        "team2": "Ottawa-Glandorf",
+        "winner": "Celina",
+        "team1Score": 4,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 22,
         "team1": "Perrysburg",
         "team2": "Clay (Oregon)",
         "winner": "Clay (Oregon)",
         "team1Score": 2,
         "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Centerville",
+        "team2": "Fairmont (Kettering)",
+        "winner": "Centerville",
+        "team1Score": 7,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Centerville",
+        "team2": "Mason",
+        "winner": "Centerville",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Northmont (Clayton)",
+        "team2": "Springboro",
+        "winner": "Springboro",
+        "team1Score": 0,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Carroll (Dayton)",
+        "team2": "Mason",
+        "winner": "Mason",
+        "team1Score": 3,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Granville Christian Academy",
+        "team2": "Madison Plains (London)",
+        "winner": "Granville Christian Academy",
+        "team1Score": 6,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Unioto (Chillicothe)",
+        "team2": "New Lexington",
+        "winner": "Unioto (Chillicothe)",
+        "team1Score": 18,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Northeastern (Springfield)",
+        "team2": "Troy Christian School",
+        "winner": "Troy Christian School",
+        "team1Score": 1,
+        "team2Score": 14
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Shawnee (Springfield)",
+        "team2": "Benjamin Logan (Bellefontaine)",
+        "winner": "Benjamin Logan (Bellefontaine)",
+        "team1Score": 2,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "McClain (Greenfield)",
+        "team2": "Waverly",
+        "winner": "McClain (Greenfield)",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Miami Trace (Washington Court House)",
+        "team2": "Alexander (Albany)",
+        "winner": "Alexander (Albany)",
+        "team1Score": 0,
+        "team2Score": 7
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Ashland",
+        "team2": "Findlay",
+        "winner": "Findlay",
+        "team1Score": 2,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "West Liberty-Salem",
+        "team2": "Miami East  (Casstown)",
+        "winner": "Miami East  (Casstown)",
+        "team1Score": 0,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Gallia Academy (Gallipolis)",
+        "team2": "Portsmouth West (West Portsmouth)",
+        "winner": "Gallia Academy (Gallipolis)",
+        "team1Score": 7,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Georgetown",
+        "team2": "Cincinnati Country Day School",
+        "winner": "Cincinnati Country Day School",
+        "team1Score": 1,
+        "team2Score": 7
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Legacy Christian Academy (Xenia)",
+        "team2": "Greeneview (Jamestown)",
+        "winner": "Legacy Christian Academy (Xenia)",
+        "team1Score": 3,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Indian Creek (Wintersville)",
+        "team2": "Harrison Central (Cadiz)",
+        "winner": "Indian Creek (Wintersville)",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Vermilion",
+        "team2": "Edison (Milan)",
+        "winner": "Vermilion",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Bowling Green",
+        "team2": "Springfield (Holland)",
+        "winner": "Springfield (Holland)",
+        "team1Score": 0,
+        "team2Score": 9
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Sandusky",
+        "team2": "Napoleon",
+        "winner": "Napoleon",
+        "team1Score": 0,
+        "team2Score": 7
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Central Catholic (Toledo)",
+        "team2": "Oak Harbor",
+        "winner": "Central Catholic (Toledo)",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Bryan",
+        "team2": "Wauseon",
+        "winner": "Wauseon",
+        "team1Score": 0,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Elida",
+        "team2": "Liberty-Benton (Findlay)",
+        "winner": "Elida",
+        "team1Score": 2,
+        "team2Score": 0
     },
     {
         "month": 10,
@@ -40186,12 +42229,1920 @@
     },
     {
         "month": 10,
-        "day": 26,
-        "team1": "Tecumseh (New Carlisle)",
-        "team2": "Kenton Ridge (Springfield)",
-        "winner": "Tecumseh (New Carlisle)",
+        "day": 22,
+        "team1": "Shawnee (Lima)",
+        "team2": "Wapakoneta",
+        "winner": "Shawnee (Lima)",
+        "team1Score": 7,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Norwalk",
+        "team2": "Clear Fork (Bellville)",
+        "winner": "Norwalk",
+        "team1Score": 4,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Ontario",
+        "team2": "Huron",
+        "winner": "Ontario",
+        "team1Score": 5,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Perkins (Sandusky)",
+        "team2": "Lake (Millbury)",
+        "winner": "Perkins (Sandusky)",
+        "team1Score": 4,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Colerain (Cincinnati)",
+        "team2": "Mason",
+        "winner": "Mason",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Mason",
+        "team2": "Middletown",
+        "winner": "Mason",
+        "team1Score": 5,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Badin (Hamilton)",
+        "team2": "Alter (Kettering)",
+        "winner": "Alter (Kettering)",
+        "team1Score": 2,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Bellbrook",
+        "team2": "Ross (Hamilton)",
+        "winner": "Bellbrook",
+        "team1Score": 9,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Brookville",
+        "team2": "Bethel (Tipp City)",
+        "winner": "Brookville",
         "team1Score": 1,
         "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Chaminade-Julienne (Dayton)",
+        "team2": "Monroe",
+        "winner": "Monroe",
+        "team1Score": 0,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Finneytown (Cincinnati)",
+        "team2": "Seven Hills (Cincinnati)",
+        "winner": "Seven Hills (Cincinnati)",
+        "team1Score": 1,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Greenon (Springfield)",
+        "team2": "Madison (Middletown)",
+        "winner": "Greenon (Springfield)",
+        "team1Score": 11,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Indian Lake (Lewistown)",
+        "team2": "Northwestern (Springfield)",
+        "winner": "Northwestern (Springfield)",
+        "team1Score": 2,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Clark Montessori School (Cincinnati)",
+        "team2": "Madeira",
+        "winner": "Madeira",
+        "team1Score": 0,
+        "team2Score": 9
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Dayton Christian School",
+        "team2": "Twin Valley South (West Alexandria)",
+        "winner": "Dayton Christian School",
+        "team1Score": 5,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Deer Park (Cincinnati)",
+        "team2": "Mariemont (Cincinnati)",
+        "winner": "Mariemont (Cincinnati)",
+        "team1Score": 1,
+        "team2Score": 9
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Tri-County North",
+        "team2": "Yellow Springs",
+        "winner": "Yellow Springs",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Botkins",
+        "team2": "Emmanuel Christian School (Springfield)",
+        "winner": "Botkins",
+        "team1Score": 12,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Elyria Catholic",
+        "team2": "Mapleton (Ashland)",
+        "winner": "Elyria Catholic",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Springfield (New Middletown)",
+        "team2": "Conneaut",
+        "winner": "Springfield (New Middletown)",
+        "team1Score": 8,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Ontario",
+        "team2": "Shelby",
+        "winner": "Ontario",
+        "team1Score": 13,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Archbold",
+        "team2": "Delta",
+        "winner": "Archbold",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "St. John's (Delphos)",
+        "team2": "Coldwater",
+        "winner": "Coldwater",
+        "team1Score": 1,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Fairfield (Leesburg)",
+        "team2": "Southeastern (Chillicothe)",
+        "winner": "Fairfield (Leesburg)",
+        "team1Score": 8,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Lynchburg-Clay",
+        "team2": "Fairland (Proctorville)",
+        "winner": "Lynchburg-Clay",
+        "team1Score": 8,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Minford",
+        "team2": "Rock Hill (Ironton)",
+        "winner": "Minford",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 22,
+        "team1": "Berkshire",
+        "team2": "Leetonia",
+        "winner": "Berkshire",
+        "team1Score": 10,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Chillicothe",
+        "team2": "Jackson",
+        "winner": "Jackson",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Buckeye Valley (Delaware)",
+        "team2": "Jonathan Alder (Plain City)",
+        "winner": "Jonathan Alder (Plain City)",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Hudson",
+        "team2": "Chardon",
+        "winner": "Hudson",
+        "team1Score": 10,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Bay",
+        "team2": "Fairview",
+        "winner": "Bay",
+        "team1Score": 8,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Jackson (Massillon)",
+        "team2": "Geneva",
+        "winner": "Jackson (Massillon)",
+        "team1Score": 8,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "West Geauga (Chesterland)",
+        "team2": "Poland Seminary",
+        "winner": "Poland Seminary",
+        "team1Score": 2,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Mansfield Christian School",
+        "team2": "Ada",
+        "winner": "Ada",
+        "team1Score": 1,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "New Philadelphia",
+        "team2": "Minerva",
+        "winner": "New Philadelphia",
+        "team1Score": 4,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Morgan (McConnelsville)",
+        "team2": "West Holmes (Millersburg)",
+        "winner": "West Holmes (Millersburg)",
+        "team1Score": 1,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "St. Ignatius (Cleveland)",
+        "team2": "Parma",
+        "winner": "St. Ignatius (Cleveland)",
+        "team1Score": 12,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Strongsville",
+        "team2": "Lakewood",
+        "winner": "Lakewood",
+        "team1Score": 0,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Walsh Jesuit (Cuyahoga Falls)",
+        "team2": "Boardman (Youngstown)",
+        "winner": "Walsh Jesuit (Cuyahoga Falls)",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Wadsworth",
+        "team2": "Bedford",
+        "winner": "Wadsworth",
+        "team1Score": 11,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Revere (Richfield)",
+        "team2": "Villa Angela-St. Joseph (Cleveland)",
+        "winner": "Revere (Richfield)",
+        "team1Score": 10,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Shaker Heights",
+        "team2": "St. Edward (Lakewood)",
+        "winner": "St. Edward (Lakewood)",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Cardinal Mooney (Youngstown)",
+        "team2": "St. John High school (Ashtabula)",
+        "winner": "Cardinal Mooney (Youngstown)",
+        "team1Score": 7,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "South Point",
+        "team2": "North Adams (Seaman)",
+        "winner": "North Adams (Seaman)",
+        "team1Score": 0,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "St. Joseph Central (Ironton)",
+        "team2": "Minford",
+        "winner": "St. Joseph Central (Ironton)",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Lynchburg-Clay",
+        "team2": "South Webster",
+        "winner": "Lynchburg-Clay",
+        "team1Score": 4,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Valley (Lucasville)",
+        "team2": "Wheelersburg",
+        "winner": "Wheelersburg",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Philo",
+        "team2": "Dover",
+        "winner": "Dover",
+        "team1Score": 0,
+        "team2Score": 9
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Maysville (Zanesville)",
+        "team2": "St. Clairsville",
+        "winner": "St. Clairsville",
+        "team1Score": 1,
+        "team2Score": 6
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Perry (Massillon)",
+        "team2": "Harvey (Painesville)",
+        "winner": "Perry (Massillon)",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Stow",
+        "team2": "University School (Hunting Valley)",
+        "winner": "University School (Hunting Valley)",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Beaver Local (East Liverpool)",
+        "team2": "East Liverpool",
+        "winner": "East Liverpool",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "John Glenn (New Concord)",
+        "team2": "Steubenville",
+        "winner": "Steubenville",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "St. Vincent St. Mary (Akron)",
+        "team2": "Orrville",
+        "winner": "St. Vincent St. Mary (Akron)",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Wooster",
+        "team2": "North Royalton",
+        "winner": "North Royalton",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Lake (Uniontown)",
+        "team2": "Mentor",
+        "winner": "Lake (Uniontown)",
+        "team1Score": 3,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Hoover (North Canton)",
+        "team2": "Warren G. Harding",
+        "winner": "Hoover (North Canton)",
+        "team1Score": 7,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Green (Uniontown)",
+        "team2": "Archbishop Hoban (Akron)",
+        "winner": "Archbishop Hoban (Akron)",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "GlenOak (Canton)",
+        "team2": "Kenston (Chagrin Falls)",
+        "winner": "Kenston (Chagrin Falls)",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Fitch (Austintown)",
+        "team2": "Eastlake North",
+        "winner": "Fitch (Austintown)",
+        "team1Score": 4,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Avon Lake",
+        "team2": "Highland (Medina)",
+        "winner": "Avon Lake",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Brecksville-Broadview Heights",
+        "team2": "North Olmsted",
+        "winner": "North Olmsted",
+        "team1Score": 1,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Brunswick",
+        "team2": "Olmsted Falls",
+        "winner": "Brunswick",
+        "team1Score": 6,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Brush (Lyndhurst)",
+        "team2": "Solon",
+        "winner": "Solon",
+        "team1Score": 0,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Cloverleaf (Lodi)",
+        "team2": "Buckeye (Medina)",
+        "winner": "Buckeye (Medina)",
+        "team1Score": 0,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Medina",
+        "team2": "Valley Forge (Parma Heights)",
+        "winner": "Medina",
+        "team1Score": 10,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Midview (Grafton)",
+        "team2": "Westlake",
+        "winner": "Westlake",
+        "team1Score": 3,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "North Ridgeville",
+        "team2": "Copley",
+        "winner": "Copley",
+        "team1Score": 0,
+        "team2Score": 7
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Riverside (Painesville)",
+        "team2": "Twinsburg",
+        "winner": "Twinsburg",
+        "team1Score": 1,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Aurora",
+        "team2": "Tallmadge",
+        "winner": "Aurora",
+        "team1Score": 2,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Avon",
+        "team2": "Berea-Midpark",
+        "winner": "Avon",
+        "team1Score": 7,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Beachwood",
+        "team2": "Lutheran West (Rocky River)",
+        "winner": "Lutheran West (Rocky River)",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Benedictine (Cleveland)",
+        "team2": "Rocky River",
+        "winner": "Benedictine (Cleveland)",
+        "team1Score": 4,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Northwest (Canal Fulton)",
+        "team2": "Cuyahoga Valley Christian Academy (Cuyahoga Falls)",
+        "winner": "Cuyahoga Valley Christian Academy (Cuyahoga Falls)",
+        "team1Score": 0,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Canfield",
+        "team2": "Hawken (Chesterland)",
+        "winner": "Hawken (Chesterland)",
+        "team1Score": 0,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Canton Central Catholic",
+        "team2": "Rittman",
+        "winner": "Canton Central Catholic",
+        "team1Score": 8,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Chagrin Falls",
+        "team2": "Field (Mogadore)",
+        "winner": "Chagrin Falls",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Crestwood",
+        "team2": "Central Christian School (Kidron)",
+        "winner": "Central Christian School (Kidron)",
+        "team1Score": 0,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Howland (Warren)",
+        "team2": "Salem",
+        "winner": "Howland (Warren)",
+        "team1Score": 12,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Lakeview (Cortland)",
+        "team2": "West Branch (Beloit)",
+        "winner": "Lakeview (Cortland)",
+        "team1Score": 9,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Louisville",
+        "team2": "Marlington (Alliance)",
+        "winner": "Louisville",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Norton",
+        "team2": "Orange (Pepper Pike)",
+        "winner": "Norton",
+        "team1Score": 6,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Notre Dame Cathedral Latin (Chardon)",
+        "team2": "Gilmour Academy (Gates Mills)",
+        "winner": "Notre Dame Cathedral Latin (Chardon)",
+        "team1Score": 3,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Badger (Kinsman)",
+        "team2": "Heartland Christian School",
+        "winner": "Badger (Kinsman)",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Berkshire",
+        "team2": "Independence",
+        "winner": "Independence",
+        "team1Score": 0,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Champion (Warren)",
+        "team2": "Grand Valley (Orwell)",
+        "winner": "Grand Valley (Orwell)",
+        "team1Score": 0,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Chippewa (Doylestown)",
+        "team2": "Open Door Christian Academy (elyria)",
+        "winner": "Open Door Christian Academy (elyria)",
+        "team1Score": 2,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Columbiana",
+        "team2": "Mineral Ridge",
+        "winner": "Columbiana",
+        "team1Score": 7,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Crestview (Columbiana)",
+        "team2": "East Palestine",
+        "winner": "Crestview (Columbiana)",
+        "team1Score": 9,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Cornerstone Christian Academy (Mentor)",
+        "team2": "Kirtland",
+        "winner": "Kirtland",
+        "team1Score": 1,
+        "team2Score": 7
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Cuyahoga Heights",
+        "team2": "Smithville",
+        "winner": "Smithville",
+        "team1Score": 0,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Elyria Catholic",
+        "team2": "Waynedale (Apple Creek)",
+        "winner": "Elyria Catholic",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Labrae (Leavittsburg)",
+        "team2": "Ursuline (Youngstown)",
+        "winner": "Ursuline (Youngstown)",
+        "team1Score": 0,
+        "team2Score": 6
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Manchester (Akron)",
+        "team2": "Norwayne (Creston)",
+        "winner": "Norwayne (Creston)",
+        "team1Score": 0,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Maplewood (Cortland)",
+        "team2": "Matthews (Vienna)",
+        "winner": "Matthews (Vienna)",
+        "team1Score": 2,
+        "team2Score": 8
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Oberlin",
+        "team2": "Waterloo (Atwater)",
+        "winner": "Oberlin",
+        "team1Score": 6,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Rootstown",
+        "team2": "Andrews Osborne Academy (Willoughby)",
+        "winner": "Andrews Osborne Academy (Willoughby)",
+        "team1Score": 3,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "St. Thomas Aquinas (Louisville)",
+        "team2": "Northwestern (West Salem)",
+        "winner": "Northwestern (West Salem)",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "United (Hanoverton)",
+        "team2": "Wickliffe",
+        "winner": "Wickliffe",
+        "team1Score": 3,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "John F. Kennedy (Warren)",
+        "team2": "South Range (Canfield)",
+        "winner": "South Range (Canfield)",
+        "team1Score": 0,
+        "team2Score": 8
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Bath (Lima)",
+        "team2": "Miller City",
+        "winner": "Bath (Lima)",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Bluffton",
+        "team2": "Woodmore (Elmore)",
+        "winner": "Bluffton",
+        "team1Score": 9,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Cardinal Stritch (Oregon)",
+        "team2": "Ottawa Hills",
+        "winner": "Ottawa Hills",
+        "team1Score": 0,
+        "team2Score": 13
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Continental",
+        "team2": "Spencerville",
+        "winner": "Continental",
+        "team1Score": 6,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Cory-Rawson",
+        "team2": "Van Buren",
+        "winner": "Van Buren",
+        "team1Score": 2,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Genoa",
+        "team2": "Pettisville",
+        "winner": "Genoa",
+        "team1Score": 3,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Kalida",
+        "team2": "Allen East (Harrod)",
+        "winner": "Kalida",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Maumee Valley Country Day School",
+        "team2": "Evergreen (Metamora)",
+        "winner": "Maumee Valley Country Day School",
+        "team1Score": 8,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Ottoville",
+        "team2": "Lincolnview (Van Wert)",
+        "winner": "Ottoville",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Riverdale (Mount Blanchard)",
+        "team2": "Willard",
+        "winner": "Riverdale (Mount Blanchard)",
+        "team1Score": 6,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Toledo Christian School",
+        "team2": "Archbold",
+        "winner": "Toledo Christian School",
+        "team1Score": 5,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Hilliard Davidson",
+        "team2": "Olentangy Berlin (Delaware)",
+        "winner": "Hilliard Davidson",
+        "team1Score": 2,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Newark",
+        "team2": "Olentangy Orange (Lewis Center)",
+        "winner": "Olentangy Orange (Lewis Center)",
+        "team1Score": 0,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Columbus Academy (Gahanna)",
+        "team2": "Columbus School For Girls",
+        "winner": "Columbus Academy (Gahanna)",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Loveland",
+        "team2": "West Clermont (Batavia)",
+        "winner": "Loveland",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 24,
+        "team1": "Greeneview (Jamestown)",
+        "team2": "National Trail (New Paris)",
+        "winner": "Greeneview (Jamestown)",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 25,
+        "team1": "Central Catholic (Toledo)",
+        "team2": "Perkins (Sandusky)",
+        "winner": "Central Catholic (Toledo)",
+        "team1Score": 3,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Worthington Christian School",
+        "team2": "Granville Christian Academy",
+        "winner": "Worthington Christian School",
+        "team1Score": 8,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Beavercreek",
+        "team2": "Springboro",
+        "winner": "Beavercreek",
+        "team1Score": 3,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Patriot Prep Academy (Whitehall)",
+        "team2": "Northridge (Johnstown)",
+        "winner": "Patriot Prep Academy (Whitehall)",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Grove City Christian School",
+        "team2": "Liberty Union (Baltimore)",
+        "winner": "Liberty Union (Baltimore)",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "The Wellington School (Columbus)",
+        "team2": "Northside Christian School (Westerville)",
+        "winner": "The Wellington School (Columbus)",
+        "team1Score": 8,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Bishop Ready (Columbus)",
+        "team2": "Grandview Heights",
+        "winner": "Grandview Heights",
+        "team1Score": 0,
+        "team2Score": 13
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Tree Of Life School (Columbus)",
+        "team2": "Fisher Catholic (Lancaster)",
+        "winner": "Fisher Catholic (Lancaster)",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Pleasant (Marion)",
+        "team2": "Fairbanks (Milford Center)",
+        "winner": "Fairbanks (Milford Center)",
+        "team1Score": 0,
+        "team2Score": 8
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Celina",
+        "team2": "Memorial (St. Marys)",
+        "winner": "Celina",
+        "team1Score": 3,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Columbus Academy (Gahanna)",
+        "team2": "Madison Christian School (Groveport)",
+        "winner": "Columbus Academy (Gahanna)",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Lexington",
+        "team2": "Vermilion",
+        "winner": "Lexington",
+        "team1Score": 6,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Legacy Christian Academy (Xenia)",
+        "team2": "Botkins",
+        "winner": "Botkins",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Elida",
+        "team2": "Shawnee (Lima)",
+        "winner": "Shawnee (Lima)",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Napoleon",
+        "team2": "Wauseon",
+        "winner": "Napoleon",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Norwalk",
+        "team2": "Ontario",
+        "winner": "Ontario",
+        "team1Score": 2,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Bellbrook",
+        "team2": "Monroe",
+        "winner": "Monroe",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Benjamin Logan (Bellefontaine)",
+        "team2": "Milton-Union (West Milton)",
+        "winner": "Benjamin Logan (Bellefontaine)",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Brookville",
+        "team2": "Troy Christian School",
+        "winner": "Troy Christian School",
+        "team1Score": 1,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Greenon (Springfield)",
+        "team2": "Dayton Christian School",
+        "winner": "Greenon (Springfield)",
+        "team1Score": 3,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Alter (Kettering)",
+        "team2": "Oakwood",
+        "winner": "Oakwood",
+        "team1Score": 1,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Cincinnati Country Day School",
+        "team2": "Mariemont (Cincinnati)",
+        "winner": "Mariemont (Cincinnati)",
+        "team1Score": 2,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Madeira",
+        "team2": "Seven Hills (Cincinnati)",
+        "winner": "Madeira",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Miami East  (Casstown)",
+        "team2": "Yellow Springs",
+        "winner": "Yellow Springs",
+        "team1Score": 1,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Steele (Amherst)",
+        "team2": "Hathaway Brown (Shaker Heights)",
+        "winner": "Hathaway Brown (Shaker Heights)",
+        "team1Score": 1,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Strongsville",
+        "team2": "Berea-Midpark",
+        "winner": "Strongsville",
+        "team1Score": 8,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 26,
+        "team1": "Brooklyn",
+        "team2": "Fairless (Navarre)",
+        "winner": "Fairless (Navarre)",
+        "team1Score": 1,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Big Walnut (Sunbury)",
+        "team2": "Dublin Jerome",
+        "winner": "Dublin Jerome",
+        "team1Score": 0,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Pickerington North",
+        "team2": "Coffman (Dublin)",
+        "winner": "Pickerington North",
+        "team1Score": 3,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Westerville Central",
+        "team2": "Olentangy Orange (Lewis Center)",
+        "winner": "Westerville Central",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Hilliard Darby",
+        "team2": "Olentangy Liberty (Powell)",
+        "winner": "Olentangy Liberty (Powell)",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Worthington Kilbourne (Columbus)",
+        "team2": "Upper Arlington",
+        "winner": "Upper Arlington",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Westerville North",
+        "team2": "Olentangy Berlin (Delaware)",
+        "winner": "Olentangy Berlin (Delaware)",
+        "team1Score": 0,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Northland (Columbus)",
+        "team2": "Mifflin (Columbus)",
+        "winner": "Northland (Columbus)",
+        "team1Score": 3,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Bloom-Carroll",
+        "team2": "Bishop Watterson (Columbus)",
+        "winner": "Bishop Watterson (Columbus)",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Hamilton Township (Columbus)",
+        "team2": "Granville",
+        "winner": "Granville",
+        "team1Score": 3,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "St. Francis DeSales (Columbus)",
+        "team2": "Jonathan Alder (Plain City)",
+        "winner": "St. Francis DeSales (Columbus)",
+        "team1Score": 6,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Bay",
+        "team2": "Lutheran West (Rocky River)",
+        "winner": "Bay",
+        "team1Score": 8,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Anthony Wayne (Whitehouse)",
+        "team2": "St. Francis de Sales School (Toledo)",
+        "winner": "Anthony Wayne (Whitehouse)",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "New Albany",
+        "team2": "Hilliard Bradley",
+        "winner": "New Albany",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "West Muskingum (Zanesville)",
+        "team2": "Steubenville Catholic Central",
+        "winner": "West Muskingum (Zanesville)",
+        "team1Score": 3,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Johnstown-Monroe",
+        "team2": "Bishop Hartley (Columbus)",
+        "winner": "Bishop Hartley (Columbus)",
+        "team1Score": 1,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Northview (Sylvania)",
+        "team2": "Whitmer (Toledo)",
+        "winner": "Northview (Sylvania)",
+        "team1Score": 2,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Walsh Jesuit (Cuyahoga Falls)",
+        "team2": "Twinsburg",
+        "winner": "Walsh Jesuit (Cuyahoga Falls)",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "St. Johns Jesuit (Toledo)",
+        "team2": "Springfield (Holland)",
+        "winner": "St. Johns Jesuit (Toledo)",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Revere (Richfield)",
+        "team2": "Norton",
+        "winner": "Revere (Richfield)",
+        "team1Score": 2,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Cardinal Mooney (Youngstown)",
+        "team2": "Ursuline (Youngstown)",
+        "winner": "Cardinal Mooney (Youngstown)",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Hiland (Berlin)",
+        "team2": "Sandy Valley (Magnolia)",
+        "winner": "Hiland (Berlin)",
+        "team1Score": 9,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "St. Vincent St. Mary (Akron)",
+        "team2": "Cuyahoga Valley Christian Academy (Cuyahoga Falls)",
+        "winner": "Cuyahoga Valley Christian Academy (Cuyahoga Falls)",
+        "team1Score": 0,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Aurora",
+        "team2": "Notre Dame Cathedral Latin (Chardon)",
+        "winner": "Aurora",
+        "team1Score": 2,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Benedictine (Cleveland)",
+        "team2": "Buckeye (Medina)",
+        "winner": "Buckeye (Medina)",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Canton Central Catholic",
+        "team2": "Norwayne (Creston)",
+        "winner": "Norwayne (Creston)",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Chagrin Falls",
+        "team2": "Louisville",
+        "winner": "Chagrin Falls",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Howland (Warren)",
+        "team2": "Lakeview (Cortland)",
+        "winner": "Howland (Warren)",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Poland Seminary",
+        "team2": "Hawken (Chesterland)",
+        "winner": "Poland Seminary",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Badger (Kinsman)",
+        "team2": "Grand Valley (Orwell)",
+        "winner": "Badger (Kinsman)",
+        "team1Score": 5,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Columbiana",
+        "team2": "Matthews (Vienna)",
+        "winner": "Columbiana",
+        "team1Score": 6,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Crestview (Columbiana)",
+        "team2": "South Range (Canfield)",
+        "winner": "South Range (Canfield)",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Elyria Catholic",
+        "team2": "Central Christian School (Kidron)",
+        "winner": "Central Christian School (Kidron)",
+        "team1Score": 0,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Independence",
+        "team2": "Smithville",
+        "winner": "Smithville",
+        "team1Score": 1,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Kirtland",
+        "team2": "Oberlin",
+        "winner": "Kirtland",
+        "team1Score": 5,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Open Door Christian Academy (elyria)",
+        "team2": "Andrews Osborne Academy (Willoughby)",
+        "winner": "Andrews Osborne Academy (Willoughby)",
+        "team1Score": 1,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Northwestern (West Salem)",
+        "team2": "Wickliffe",
+        "winner": "Wickliffe",
+        "team1Score": 2,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Clay (Oregon)",
+        "team2": "Findlay",
+        "winner": "Findlay",
+        "team1Score": 2,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Archbold",
+        "team2": "Liberty Center",
+        "winner": "Archbold",
+        "team1Score": 5,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Bluffton",
+        "team2": "Crestview (Ashland)",
+        "winner": "Bluffton",
+        "team1Score": 4,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Ottawa-Glandorf",
+        "team2": "Evergreen (Metamora)",
+        "winner": "Ottawa-Glandorf",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 27,
+        "team1": "Ottoville",
+        "team2": "Coldwater",
+        "winner": "Ottoville",
+        "team1Score": 3,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Worthington Christian School",
+        "team2": "Patriot Prep Academy (Whitehall)",
+        "winner": "Worthington Christian School",
+        "team1Score": 8,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "The Wellington School (Columbus)",
+        "team2": "Fairbanks (Milford Center)",
+        "winner": "Fairbanks (Milford Center)",
+        "team1Score": 0,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Hudson",
+        "team2": "Fitch (Austintown)",
+        "winner": "Hudson",
+        "team1Score": 7,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Jackson (Massillon)",
+        "team2": "Perry (Massillon)",
+        "winner": "Jackson (Massillon)",
+        "team1Score": 6,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Fairfield Union (Lancaster)",
+        "team2": "Alexander (Albany)",
+        "winner": "Alexander (Albany)",
+        "team1Score": 0,
+        "team2Score": 6
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "River View (Warsaw)",
+        "team2": "Indian Creek (Wintersville)",
+        "winner": "River View (Warsaw)",
+        "team1Score": 3,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "New Philadelphia",
+        "team2": "Steubenville",
+        "winner": "New Philadelphia",
+        "team1Score": 3,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "St. Ignatius (Cleveland)",
+        "team2": "Westlake",
+        "winner": "St. Ignatius (Cleveland)",
+        "team1Score": 9,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Wadsworth",
+        "team2": "Medina",
+        "winner": "Medina",
+        "team1Score": 0,
+        "team2Score": 6
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Columbus Academy (Gahanna)",
+        "team2": "Liberty Union (Baltimore)",
+        "winner": "Columbus Academy (Gahanna)",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Fisher Catholic (Lancaster)",
+        "team2": "Grandview Heights",
+        "winner": "Grandview Heights",
+        "team1Score": 0,
+        "team2Score": 9
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Unioto (Chillicothe)",
+        "team2": "Warren (Vincent)",
+        "winner": "Unioto (Chillicothe)",
+        "team1Score": 3,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "McClain (Greenfield)",
+        "team2": "Gallia Academy (Gallipolis)",
+        "winner": "Gallia Academy (Gallipolis)",
+        "team1Score": 2,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "St. Clairsville",
+        "team2": "West Holmes (Millersburg)",
+        "winner": "West Holmes (Millersburg)",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Dover",
+        "team2": "East Liverpool",
+        "winner": "Dover",
+        "team1Score": 3,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Lake (Uniontown)",
+        "team2": "Solon",
+        "winner": "Solon",
+        "team1Score": 0,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Hoover (North Canton)",
+        "team2": "Archbishop Hoban (Akron)",
+        "winner": "Archbishop Hoban (Akron)",
+        "team1Score": 0,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Avon Lake",
+        "team2": "Copley",
+        "winner": "Avon Lake",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Brunswick",
+        "team2": "Avon",
+        "winner": "Brunswick",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Lakewood",
+        "team2": "North Olmsted",
+        "winner": "North Olmsted",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "North Royalton",
+        "team2": "St. Edward (Lakewood)",
+        "winner": "St. Edward (Lakewood)",
+        "team1Score": 1,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Kenston (Chagrin Falls)",
+        "team2": "University School (Hunting Valley)",
+        "winner": "University School (Hunting Valley)",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Bath (Lima)",
+        "team2": "Continental",
+        "winner": "Continental",
+        "team1Score": 0,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Ada",
+        "team2": "Bluffton",
+        "winner": "Bluffton",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Genoa",
+        "team2": "Ottawa Hills",
+        "winner": "Ottawa Hills",
+        "team1Score": 0,
+        "team2Score": 6
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Kalida",
+        "team2": "Ottoville",
+        "winner": "Kalida",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Maumee Valley Country Day School",
+        "team2": "Toledo Christian School",
+        "winner": "Maumee Valley Country Day School",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Riverdale (Mount Blanchard)",
+        "team2": "Van Buren",
+        "winner": "Riverdale (Mount Blanchard)",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 28,
+        "team1": "Worthington Kilbourne (Columbus)",
+        "team2": "Olentangy Orange (Lewis Center)",
+        "winner": "Olentangy Orange (Lewis Center)",
+        "team1Score": 0,
+        "team2Score": 1
     },
     {
         "month": 10,
@@ -40199,7 +44150,808 @@
         "team1": "Granville",
         "team2": "Licking Valley (Newark)",
         "winner": "Granville",
+        "team1Score": 9,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 29,
+        "team1": "Beavercreek",
+        "team2": "Sycamore",
+        "winner": "Sycamore",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 29,
+        "team1": "Summit Country Day School (Cincinnati)",
+        "team2": "Monroe",
+        "winner": "Summit Country Day School (Cincinnati)",
+        "team1Score": 3,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 29,
+        "team1": "Lexington",
+        "team2": "Ontario",
+        "winner": "Lexington",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 29,
+        "team1": "St. Joseph Central (Ironton)",
+        "team2": "Lynchburg-Clay",
+        "winner": "Lynchburg-Clay",
+        "team1Score": 2,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 29,
+        "team1": "North Adams (Seaman)",
+        "team2": "Wheelersburg",
+        "winner": "Wheelersburg",
+        "team1Score": 0,
+        "team2Score": 7
+    },
+    {
+        "month": 10,
+        "day": 29,
+        "team1": "Central Catholic (Toledo)",
+        "team2": "Napoleon",
+        "winner": "Central Catholic (Toledo)",
+        "team1Score": 2,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 29,
+        "team1": "Benjamin Logan (Bellefontaine)",
+        "team2": "Wyoming",
+        "winner": "Wyoming",
+        "team1Score": 0,
+        "team2Score": 7
+    },
+    {
+        "month": 10,
+        "day": 29,
+        "team1": "Greenon (Springfield)",
+        "team2": "Botkins",
+        "winner": "Botkins",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 29,
+        "team1": "Madeira",
+        "team2": "Troy Christian School",
+        "winner": "Troy Christian School",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 29,
+        "team1": "Mariemont (Cincinnati)",
+        "team2": "Yellow Springs",
+        "winner": "Mariemont (Cincinnati)",
+        "team1Score": 4,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 29,
+        "team1": "Strongsville",
+        "team2": "Hathaway Brown (Shaker Heights)",
+        "winner": "Strongsville",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 29,
+        "team1": "Kirtland",
+        "team2": "Fairless (Navarre)",
+        "winner": "Kirtland",
         "team1Score": 7,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 30,
+        "team1": "Celina",
+        "team2": "Shawnee (Lima)",
+        "winner": "Shawnee (Lima)",
+        "team1Score": 1,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Dublin Jerome",
+        "team2": "Thomas Worthington",
+        "winner": "Thomas Worthington",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Worthington Christian School",
+        "team2": "Grandview Heights",
+        "winner": "Grandview Heights",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Pickerington North",
+        "team2": "Olentangy Liberty (Powell)",
+        "winner": "Pickerington North",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Westerville Central",
+        "team2": "Olentangy Berlin (Delaware)",
+        "winner": "Olentangy Berlin (Delaware)",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Upper Arlington",
+        "team2": "New Albany",
+        "winner": "New Albany",
+        "team1Score": 1,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Hudson",
+        "team2": "Walsh Jesuit (Cuyahoga Falls)",
+        "winner": "Hudson",
+        "team1Score": 5,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "St. Francis DeSales (Columbus)",
+        "team2": "Bishop Watterson (Columbus)",
+        "winner": "St. Francis DeSales (Columbus)",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Bay",
+        "team2": "Cuyahoga Valley Christian Academy (Cuyahoga Falls)",
+        "winner": "Bay",
+        "team1Score": 5,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Jackson (Massillon)",
+        "team2": "University School (Hunting Valley)",
+        "winner": "Jackson (Massillon)",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Anthony Wayne (Whitehouse)",
+        "team2": "Northview (Sylvania)",
+        "winner": "Anthony Wayne (Whitehouse)",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "West Muskingum (Zanesville)",
+        "team2": "Hiland (Berlin)",
+        "winner": "Hiland (Berlin)",
+        "team1Score": 2,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "River View (Warsaw)",
+        "team2": "Dover",
+        "winner": "Dover",
+        "team1Score": 2,
+        "team2Score": 6
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "New Philadelphia",
+        "team2": "West Holmes (Millersburg)",
+        "winner": "New Philadelphia",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "The Plains Athens",
+        "team2": "Alexander (Albany)",
+        "winner": "Alexander (Albany)",
+        "team1Score": 2,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Bishop Hartley (Columbus)",
+        "team2": "Granville",
+        "winner": "Granville",
+        "team1Score": 2,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "St. Ignatius (Cleveland)",
+        "team2": "North Olmsted",
+        "winner": "St. Ignatius (Cleveland)",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "St. Johns Jesuit (Toledo)",
+        "team2": "Findlay",
+        "winner": "Findlay",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Columbus Academy (Gahanna)",
+        "team2": "Fairbanks (Milford Center)",
+        "winner": "Columbus Academy (Gahanna)",
+        "team1Score": 3,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Revere (Richfield)",
+        "team2": "Buckeye (Medina)",
+        "winner": "Revere (Richfield)",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Unioto (Chillicothe)",
+        "team2": "Gallia Academy (Gallipolis)",
+        "winner": "Unioto (Chillicothe)",
+        "team1Score": 3,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Cardinal Mooney (Youngstown)",
+        "team2": "Columbiana",
+        "winner": "Cardinal Mooney (Youngstown)",
+        "team1Score": 11,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Avon Lake",
+        "team2": "Brunswick",
+        "winner": "Avon Lake",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Medina",
+        "team2": "St. Edward (Lakewood)",
+        "winner": "Medina",
+        "team1Score": 6,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Solon",
+        "team2": "Archbishop Hoban (Akron)",
+        "winner": "Solon",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Aurora",
+        "team2": "Howland (Warren)",
+        "winner": "Howland (Warren)",
+        "team1Score": 0,
+        "team2Score": 4
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Chagrin Falls",
+        "team2": "Poland Seminary",
+        "winner": "Chagrin Falls",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Badger (Kinsman)",
+        "team2": "South Range (Canfield)",
+        "winner": "South Range (Canfield)",
+        "team1Score": 0,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Central Christian School (Kidron)",
+        "team2": "Smithville",
+        "winner": "Central Christian School (Kidron)",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Kirtland",
+        "team2": "Andrews Osborne Academy (Willoughby)",
+        "winner": "Kirtland",
+        "team1Score": 3,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Wickliffe",
+        "team2": "Norwayne (Creston)",
+        "winner": "Norwayne (Creston)",
+        "team1Score": 1,
+        "team2Score": 5
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Bluffton",
+        "team2": "Riverdale (Mount Blanchard)",
+        "winner": "Riverdale (Mount Blanchard)",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Continental",
+        "team2": "Kalida",
+        "winner": "Continental",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Maumee Valley Country Day School",
+        "team2": "Ottawa Hills",
+        "winner": "Ottawa Hills",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Olentangy (Lewis Center)",
+        "team2": "Olentangy Orange (Lewis Center)",
+        "winner": "Olentangy (Lewis Center)",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Miamisburg",
+        "team2": "Mount Notre Dame (Cincinnati)",
+        "winner": "Mount Notre Dame (Cincinnati)",
+        "team1Score": 0,
+        "team2Score": 3
+    },
+    {
+        "month": 10,
+        "day": 31,
+        "team1": "Madeira",
+        "team2": "Anna",
+        "winner": "Madeira",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "Pickerington North",
+        "team2": "New Albany",
+        "winner": "New Albany",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "Thomas Worthington",
+        "team2": "Olentangy Berlin (Delaware)",
+        "winner": "Thomas Worthington",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "Hudson",
+        "team2": "Jackson (Massillon)",
+        "winner": "Jackson (Massillon)",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "St. Francis DeSales (Columbus)",
+        "team2": "Tippecanoe",
+        "winner": "Tippecanoe",
+        "team1Score": 0,
+        "team2Score": 3
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "Bay",
+        "team2": "Howland (Warren)",
+        "winner": "Howland (Warren)",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "Anthony Wayne (Whitehouse)",
+        "team2": "Findlay",
+        "winner": "Findlay",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "New Philadelphia",
+        "team2": "Dover",
+        "winner": "Dover",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "St. Ignatius (Cleveland)",
+        "team2": "Solon",
+        "winner": "St. Ignatius (Cleveland)",
+        "team1Score": 4,
+        "team2Score": 1
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "Granville",
+        "team2": "Lexington",
+        "winner": "Lexington",
+        "team1Score": 0,
+        "team2Score": 3
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "Columbus Academy (Gahanna)",
+        "team2": "Botkins",
+        "winner": "Botkins",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "Grandview Heights",
+        "team2": "Hiland (Berlin)",
+        "winner": "Grandview Heights",
+        "team1Score": 4,
+        "team2Score": 1
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "Revere (Richfield)",
+        "team2": "Chagrin Falls",
+        "winner": "Chagrin Falls",
+        "team1Score": 0,
+        "team2Score": 1
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "Unioto (Chillicothe)",
+        "team2": "Alexander (Albany)",
+        "winner": "Alexander (Albany)",
+        "team1Score": 3,
+        "team2Score": 4
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "Cardinal Mooney (Youngstown)",
+        "team2": "Norwayne (Creston)",
+        "winner": "Cardinal Mooney (Youngstown)",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "Lynchburg-Clay",
+        "team2": "Wheelersburg",
+        "winner": "Wheelersburg",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "Avon Lake",
+        "team2": "Medina",
+        "winner": "Medina",
+        "team1Score": 0,
+        "team2Score": 4
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "Central Christian School (Kidron)",
+        "team2": "Ottawa Hills",
+        "winner": "Ottawa Hills",
+        "team1Score": 0,
+        "team2Score": 3
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "Kirtland",
+        "team2": "South Range (Canfield)",
+        "winner": "South Range (Canfield)",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "Central Catholic (Toledo)",
+        "team2": "Shawnee (Lima)",
+        "winner": "Shawnee (Lima)",
+        "team1Score": 0,
+        "team2Score": 3
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "Continental",
+        "team2": "Riverdale (Mount Blanchard)",
+        "winner": "Riverdale (Mount Blanchard)",
+        "team1Score": 0,
+        "team2Score": 2
+    },
+    {
+        "month": 11,
+        "day": 4,
+        "team1": "Mariemont (Cincinnati)",
+        "team2": "Troy Christian School",
+        "winner": "Mariemont (Cincinnati)",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 11,
+        "day": 7,
+        "team1": "Thomas Worthington",
+        "team2": "New Albany",
+        "winner": "New Albany",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 11,
+        "day": 7,
+        "team1": "Jackson (Massillon)",
+        "team2": "St. Ignatius (Cleveland)",
+        "winner": "St. Ignatius (Cleveland)",
+        "team1Score": 1,
+        "team2Score": 6
+    },
+    {
+        "month": 11,
+        "day": 7,
+        "team1": "Grandview Heights",
+        "team2": "Wheelersburg",
+        "winner": "Wheelersburg",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 11,
+        "day": 7,
+        "team1": "Lexington",
+        "team2": "Shawnee (Lima)",
+        "winner": "Shawnee (Lima)",
+        "team1Score": 1,
+        "team2Score": 2
+    },
+    {
+        "month": 11,
+        "day": 7,
+        "team1": "Cardinal Mooney (Youngstown)",
+        "team2": "South Range (Canfield)",
+        "winner": "Cardinal Mooney (Youngstown)",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 11,
+        "day": 7,
+        "team1": "Alexander (Albany)",
+        "team2": "Dover",
+        "winner": "Alexander (Albany)",
+        "team1Score": 3,
+        "team2Score": 2
+    },
+    {
+        "month": 11,
+        "day": 7,
+        "team1": "Medina",
+        "team2": "Findlay",
+        "winner": "Medina",
+        "team1Score": 6,
+        "team2Score": 1
+    },
+    {
+        "month": 11,
+        "day": 7,
+        "team1": "Chagrin Falls",
+        "team2": "Howland (Warren)",
+        "winner": "Howland (Warren)",
+        "team1Score": 1,
+        "team2Score": 6
+    },
+    {
+        "month": 11,
+        "day": 7,
+        "team1": "Ottawa Hills",
+        "team2": "Riverdale (Mount Blanchard)",
+        "winner": "Ottawa Hills",
+        "team1Score": 5,
+        "team2Score": 1
+    },
+    {
+        "month": 11,
+        "day": 7,
+        "team1": "Mariemont (Cincinnati)",
+        "team2": "Botkins",
+        "winner": "Mariemont (Cincinnati)",
+        "team1Score": 4,
+        "team2Score": 0
+    },
+    {
+        "month": 11,
+        "day": 11,
+        "team1": "New Albany",
+        "team2": "St. Xavier (Cincinnati)",
+        "winner": "New Albany",
+        "team1Score": 2,
+        "team2Score": 1
+    },
+    {
+        "month": 11,
+        "day": 11,
+        "team1": "St. Ignatius (Cleveland)",
+        "team2": "Medina",
+        "winner": "St. Ignatius (Cleveland)",
+        "team1Score": 2,
+        "team2Score": 0
+    },
+    {
+        "month": 11,
+        "day": 11,
+        "team1": "Cardinal Mooney (Youngstown)",
+        "team2": "Ottawa Hills",
+        "winner": "Cardinal Mooney (Youngstown)",
+        "team1Score": 1,
+        "team2Score": 0
+    },
+    {
+        "month": 11,
+        "day": 11,
+        "team1": "Alexander (Albany)",
+        "team2": "Tippecanoe",
+        "winner": "Tippecanoe",
+        "team1Score": 1,
+        "team2Score": 4
+    },
+    {
+        "month": 11,
+        "day": 11,
+        "team1": "Wheelersburg",
+        "team2": "Mariemont (Cincinnati)",
+        "winner": "Mariemont (Cincinnati)",
+        "team1Score": 0,
+        "team2Score": 5
+    },
+    {
+        "month": 11,
+        "day": 11,
+        "team1": "Howland (Warren)",
+        "team2": "Shawnee (Lima)",
+        "winner": "Howland (Warren)",
+        "team1Score": 3,
+        "team2Score": 0
+    },
+    {
+        "month": 11,
+        "day": 14,
+        "team1": "New Albany",
+        "team2": "St. Ignatius (Cleveland)",
+        "winner": "St. Ignatius (Cleveland)",
+        "team1Score": 1,
+        "team2Score": 4
+    },
+    {
+        "month": 11,
+        "day": 14,
+        "team1": "Cardinal Mooney (Youngstown)",
+        "team2": "Mariemont (Cincinnati)",
+        "winner": "Mariemont (Cincinnati)",
+        "team1Score": 1,
+        "team2Score": 4
+    },
+    {
+        "month": 11,
+        "day": 14,
+        "team1": "Howland (Warren)",
+        "team2": "Tippecanoe",
+        "winner": "Howland (Warren)",
+        "team1Score": 5,
         "team2Score": 0
     }
 ]

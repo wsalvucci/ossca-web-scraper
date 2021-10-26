@@ -6,7 +6,7 @@ allGames = []
 #Start with the first year of data
 startYear = 2003
 #End year needs to be 1 year after the current year of data
-endYear = 2021
+endYear = 2022
 
 #Mapping object to sort months of the year
 monthMap = {'Aug': 8, 'Sep': 9, 'Oct': 10, 'Nov': 11}

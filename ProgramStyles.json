@@ -29,7 +29,7 @@
     },
     {
         "name": "Columbiana",
-        "style": "Shootout Mania"
+        "style": "Small Town Battler"
     },
     {
         "name": "Fitch (Austintown)",
@@ -85,7 +85,7 @@
     },
     {
         "name": "Barberton",
-        "style": "Even Fighter"
+        "style": "Local Derbies"
     },
     {
         "name": "Ursuline (Youngstown)",
@@ -105,7 +105,7 @@
     },
     {
         "name": "Manchester (Akron)",
-        "style": "Blowout Dealer"
+        "style": "Cupcake Killer"
     },
     {
         "name": "Garfield (Garrettsville)",
@@ -113,11 +113,11 @@
     },
     {
         "name": "Genoa",
-        "style": "Shootout Mania"
+        "style": "Small Town Battler"
     },
     {
         "name": "Hoover (North Canton)",
-        "style": "Resiliant"
+        "style": ""
     },
     {
         "name": "John F. Kennedy (Warren)",
@@ -137,7 +137,7 @@
     },
     {
         "name": "Grove City",
-        "style": "Even Fighter"
+        "style": "Superhot"
     },
     {
         "name": "Upper Arlington",
@@ -157,7 +157,7 @@
     },
     {
         "name": "Howland (Warren)",
-        "style": "Offensive Powerhouse"
+        "style": "Powerhouse"
     },
     {
         "name": "Lakeview (Cortland)",
@@ -165,7 +165,7 @@
     },
     {
         "name": "Olentangy (Lewis Center)",
-        "style": "Slugger"
+        "style": "Superhot"
     },
     {
         "name": "Hilliard Davidson",
@@ -189,7 +189,7 @@
     },
     {
         "name": "Westerville South",
-        "style": "Slugger"
+        "style": "Superhot"
     },
     {
         "name": "St. Francis DeSales (Columbus)",
@@ -197,7 +197,7 @@
     },
     {
         "name": "Thomas Worthington",
-        "style": "Slugger"
+        "style": "Superhot"
     },
     {
         "name": "Southview (Sylvania)",
@@ -213,7 +213,7 @@
     },
     {
         "name": "Groveport Madison",
-        "style": "Even Fighter"
+        "style": "Slugger"
     },
     {
         "name": "Canal Winchester",
@@ -257,7 +257,7 @@
     },
     {
         "name": "Northridge (Johnstown)",
-        "style": "Even Fighter"
+        "style": "Local Derbies"
     },
     {
         "name": "Buckeye Valley (Delaware)",
@@ -273,15 +273,15 @@
     },
     {
         "name": "Teays Valley (Ashville)",
-        "style": "Even Fighter"
+        "style": "Local Derbies"
     },
     {
         "name": "Carroll (Dayton)",
-        "style": "Offensive Powerhouse"
+        "style": "Consistent Dominance"
     },
     {
         "name": "Talawanda (Oxford)",
-        "style": "Tough Small Guys"
+        "style": "Resiliant"
     },
     {
         "name": "Fairbanks (Milford Center)",
@@ -289,7 +289,7 @@
     },
     {
         "name": "Chagrin Falls",
-        "style": "Brick Wall"
+        "style": "Defensive Powerhouse"
     },
     {
         "name": "Kenston (Chagrin Falls)",
@@ -309,7 +309,7 @@
     },
     {
         "name": "Bay",
-        "style": "Offensive Powerhouse"
+        "style": "Powerhouse"
     },
     {
         "name": "Franklin Heights (Columbus)",
@@ -317,7 +317,7 @@
     },
     {
         "name": "Olentangy Liberty (Powell)",
-        "style": "Powerhouse"
+        "style": "Defensive Powerhouse"
     },
     {
         "name": "Bishop Hartley (Columbus)",
@@ -345,7 +345,7 @@
     },
     {
         "name": "New Albany",
-        "style": "Defensive Powerhouse"
+        "style": "Powerhouse"
     },
     {
         "name": "Pickerington Central",
@@ -353,7 +353,7 @@
     },
     {
         "name": "Pickerington North",
-        "style": "Offensive Powerhouse"
+        "style": "Powerhouse"
     },
     {
         "name": "Watkins Memorial (Pataskala)",
@@ -365,7 +365,7 @@
     },
     {
         "name": "Worthington Kilbourne (Columbus)",
-        "style": "Slugger"
+        "style": "Superhot"
     },
     {
         "name": "Lakota West (West Chester)",
@@ -393,7 +393,7 @@
     },
     {
         "name": "Centerville",
-        "style": "Offensive Powerhouse"
+        "style": "Powerhouse"
     },
     {
         "name": "Elder (Cincinnati)",
@@ -413,7 +413,7 @@
     },
     {
         "name": "Coffman (Dublin)",
-        "style": "Defensive Powerhouse"
+        "style": "Powerhouse"
     },
     {
         "name": "St. Peter's (Mansfield)",
@@ -425,11 +425,11 @@
     },
     {
         "name": "Westerville Central",
-        "style": "Slugger"
+        "style": "Superhot"
     },
     {
         "name": "Hilliard Darby",
-        "style": "Slugger"
+        "style": "Superhot"
     },
     {
         "name": "Granville",
@@ -449,7 +449,7 @@
     },
     {
         "name": "Bloom-Carroll",
-        "style": "Consistent Dominance"
+        "style": "Resiliant"
     },
     {
         "name": "Grandview Heights",
@@ -485,7 +485,7 @@
     },
     {
         "name": "London",
-        "style": "Even Fighter"
+        "style": "Local Derbies"
     },
     {
         "name": "Shawnee (Springfield)",
@@ -501,7 +501,7 @@
     },
     {
         "name": "Northwestern (Springfield)",
-        "style": "Local Stalwart"
+        "style": "Tough Small Guys"
     },
     {
         "name": "Kenton",
@@ -533,7 +533,7 @@
     },
     {
         "name": "North Olmsted",
-        "style": "Slugger"
+        "style": "Superhot"
     },
     {
         "name": "Wauseon",
@@ -553,7 +553,7 @@
     },
     {
         "name": "West Muskingum (Zanesville)",
-        "style": "Tough Small Guys"
+        "style": "Resiliant"
     },
     {
         "name": "The Plains Athens",
@@ -601,7 +601,7 @@
     },
     {
         "name": "St. Edward (Lakewood)",
-        "style": "Slugger"
+        "style": "Superhot"
     },
     {
         "name": "Licking Heights (Pataskala)",
@@ -617,7 +617,7 @@
     },
     {
         "name": "Independence (Columbus)",
-        "style": "Blowout Dealer"
+        "style": "Cupcake Killer"
     },
     {
         "name": "Circleville",
@@ -637,7 +637,7 @@
     },
     {
         "name": "Summit Country Day School (Cincinnati)",
-        "style": "Offensive Powerhouse"
+        "style": "Powerhouse"
     },
     {
         "name": "Cincinnati Hills Christian Academy",
@@ -653,7 +653,7 @@
     },
     {
         "name": "Grand Valley (Orwell)",
-        "style": "Small Town Battler"
+        "style": "Shootout Mania"
     },
     {
         "name": "Fairview",
@@ -673,7 +673,7 @@
     },
     {
         "name": "Anthony Wayne (Whitehouse)",
-        "style": "Resiliant"
+        "style": "Defensive Powerhouse"
     },
     {
         "name": "Zane Trace (Chillicothe)",
@@ -685,7 +685,7 @@
     },
     {
         "name": "Shawnee (Lima)",
-        "style": "Consistent Dominance"
+        "style": "Defensive Powerhouse"
     },
     {
         "name": "Fort Jennings",
@@ -741,7 +741,7 @@
     },
     {
         "name": "Madison (Mansfield)",
-        "style": "Resiliant"
+        "style": "Blowout Dealer"
     },
     {
         "name": "Bishop Rosecrans",
@@ -749,7 +749,7 @@
     },
     {
         "name": "West Geauga (Chesterland)",
-        "style": "Local Derbies"
+        "style": "Even Fighter"
     },
     {
         "name": "Miami Trace (Washington Court House)",
@@ -757,7 +757,7 @@
     },
     {
         "name": "Monroe",
-        "style": "Consistent Dominance"
+        "style": "Defensive Powerhouse"
     },
     {
         "name": "West Liberty-Salem",
@@ -777,7 +777,7 @@
     },
     {
         "name": "Canfield",
-        "style": "Even Fighter"
+        "style": "Slugger"
     },
     {
         "name": "Shaker Heights",
@@ -885,7 +885,7 @@
     },
     {
         "name": "University School (Hunting Valley)",
-        "style": "Offensive Powerhouse"
+        "style": "Defensive Powerhouse"
     },
     {
         "name": "Madison Plains (London)",
@@ -893,7 +893,7 @@
     },
     {
         "name": "Alexander (Albany)",
-        "style": "Resiliant"
+        "style": "Consistent Dominance"
     },
     {
         "name": "New Philadelphia",
@@ -945,7 +945,7 @@
     },
     {
         "name": "Archbishop Hoban (Akron)",
-        "style": "Brick Wall"
+        "style": "Defensive Powerhouse"
     },
     {
         "name": "Beachwood",
@@ -965,7 +965,7 @@
     },
     {
         "name": "Beavercreek",
-        "style": "Offensive Powerhouse"
+        "style": "Defensive Powerhouse"
     },
     {
         "name": "Jackson",
@@ -985,7 +985,7 @@
     },
     {
         "name": "Norwayne (Creston)",
-        "style": "Brick Wall"
+        "style": "Slugger"
     },
     {
         "name": "Northwest (Canal Fulton)",
@@ -1001,7 +1001,7 @@
     },
     {
         "name": "Wyoming",
-        "style": "Consistent Dominance"
+        "style": "Offensive Powerhouse"
     },
     {
         "name": "Findlay",
@@ -1017,7 +1017,7 @@
     },
     {
         "name": "Brunswick",
-        "style": "Resiliant"
+        "style": "Powerhouse"
     },
     {
         "name": "Bluffton",
@@ -1053,7 +1053,7 @@
     },
     {
         "name": "Mariemont (Cincinnati)",
-        "style": "Offensive Powerhouse"
+        "style": "Powerhouse"
     },
     {
         "name": "Medina",
@@ -1061,7 +1061,7 @@
     },
     {
         "name": "Greeneview (Jamestown)",
-        "style": "Even Fighter"
+        "style": "Local Derbies"
     },
     {
         "name": "Toledo Christian School",
@@ -1141,7 +1141,7 @@
     },
     {
         "name": "Springboro",
-        "style": "Slugger"
+        "style": "Superhot"
     },
     {
         "name": "Purcell-Marian (Cincinnati)",
@@ -1149,7 +1149,7 @@
     },
     {
         "name": "Central Christian School (Kidron)",
-        "style": "Big Fish Small Pond"
+        "style": "Consistent Dominance"
     },
     {
         "name": "Roosevelt (Kent)",
@@ -1169,7 +1169,7 @@
     },
     {
         "name": "Archbishop Moeller (Cincinnati)",
-        "style": "Brick Wall"
+        "style": ""
     },
     {
         "name": "Lebanon",
@@ -1229,7 +1229,7 @@
     },
     {
         "name": "East Liverpool",
-        "style": "Local Derbies"
+        "style": "Even Fighter"
     },
     {
         "name": "",
@@ -1237,7 +1237,7 @@
     },
     {
         "name": "Orange (Pepper Pike)",
-        "style": "Slugger"
+        "style": "Even Fighter"
     },
     {
         "name": "Elyria Catholic",
@@ -1253,7 +1253,7 @@
     },
     {
         "name": "St. Vincent St. Mary (Akron)",
-        "style": "Local Derbies"
+        "style": "Even Fighter"
     },
     {
         "name": "Solon",
@@ -1261,7 +1261,7 @@
     },
     {
         "name": "Avon",
-        "style": "Offensive Powerhouse"
+        "style": "Defensive Powerhouse"
     },
     {
         "name": "Hubbard",
@@ -1281,7 +1281,7 @@
     },
     {
         "name": "Crestview (Ashland)",
-        "style": "Consistent Dominance"
+        "style": "Resiliant"
     },
     {
         "name": "Fairfield (Leesburg)",
@@ -1293,11 +1293,11 @@
     },
     {
         "name": "Lynchburg-Clay",
-        "style": "Big Fish Small Pond"
+        "style": "Consistent Dominance"
     },
     {
         "name": "Fayetteville-Perry",
-        "style": "Local Derbies"
+        "style": "Small Fish Small Pond"
     },
     {
         "name": "Blanchester",
@@ -1333,11 +1333,11 @@
     },
     {
         "name": "Napoleon",
-        "style": "Local Derbies"
+        "style": "Even Fighter"
     },
     {
         "name": "Whitmer (Toledo)",
-        "style": "Local Derbies"
+        "style": "Even Fighter"
     },
     {
         "name": "Maumee",
@@ -1377,7 +1377,7 @@
     },
     {
         "name": "Bethel (Tipp City)",
-        "style": "Big Fish Small Pond"
+        "style": "Tough Small Guys"
     },
     {
         "name": "Dixie (New Lebanon)",
@@ -1405,7 +1405,7 @@
     },
     {
         "name": "Cardinal Mooney (Youngstown)",
-        "style": "Even Fighter"
+        "style": "Superhot"
     },
     {
         "name": "Clear Fork (Bellville)",
@@ -1513,11 +1513,11 @@
     },
     {
         "name": "Sycamore",
-        "style": "Slugger"
+        "style": "Superhot"
     },
     {
         "name": "Dayton Christian School",
-        "style": "Tough Small Guys"
+        "style": "Resiliant"
     },
     {
         "name": "Harrison (Cincinnati)",
@@ -1525,7 +1525,7 @@
     },
     {
         "name": "Loveland",
-        "style": "Brick Wall"
+        "style": "Defensive Powerhouse"
     },
     {
         "name": "Oak Hills (Cincinnati)",
@@ -1549,7 +1549,7 @@
     },
     {
         "name": "Bellbrook",
-        "style": "Brick Wall"
+        "style": "Resiliant"
     },
     {
         "name": "Clermont Northeastern (Batavia)",
@@ -1565,7 +1565,7 @@
     },
     {
         "name": "Oakwood",
-        "style": "Brick Wall"
+        "style": "Powerhouse"
     },
     {
         "name": "Milton-Union (West Milton)",
@@ -1581,7 +1581,7 @@
     },
     {
         "name": "Waynesville",
-        "style": "Consistent Dominance"
+        "style": "Resiliant"
     },
     {
         "name": "Franklin-Monroe (Pitsburg)",
@@ -1649,7 +1649,7 @@
     },
     {
         "name": "Rossford",
-        "style": "Shootout Mania"
+        "style": "Small Town Battler"
     },
     {
         "name": "Swanton",
@@ -1661,11 +1661,11 @@
     },
     {
         "name": "Milford",
-        "style": "Offensive Powerhouse"
+        "style": "Powerhouse"
     },
     {
         "name": "Ross (Hamilton)",
-        "style": "Brick Wall"
+        "style": "Resiliant"
     },
     {
         "name": "Brookville",
@@ -1677,11 +1677,11 @@
     },
     {
         "name": "Morgan (McConnelsville)",
-        "style": "Blowout Dealer"
+        "style": "Resiliant"
     },
     {
         "name": "Vermilion",
-        "style": "Consistent Dominance"
+        "style": "Blowout Dealer"
     },
     {
         "name": "John Glenn (New Concord)",
@@ -1733,7 +1733,7 @@
     },
     {
         "name": "Valley Forge (Parma Heights)",
-        "style": "Small Town Battler"
+        "style": "Shootout Mania"
     },
     {
         "name": "North Royalton",
@@ -1765,7 +1765,7 @@
     },
     {
         "name": "Springfield (Holland)",
-        "style": "Even Fighter"
+        "style": "Superhot"
     },
     {
         "name": "Bryan",
@@ -1801,11 +1801,11 @@
     },
     {
         "name": "Northview (Sylvania)",
-        "style": "Brick Wall"
+        "style": "Defensive Powerhouse"
     },
     {
         "name": "St. Johns Jesuit (Toledo)",
-        "style": "Offensive Powerhouse"
+        "style": "Defensive Powerhouse"
     },
     {
         "name": "Valley (Lucasville)",
@@ -1857,7 +1857,7 @@
     },
     {
         "name": "Minford",
-        "style": "Tough Small Guys"
+        "style": "Local Stalwart"
     },
     {
         "name": "Clay (Portsmouth)",
@@ -1869,11 +1869,7 @@
     },
     {
         "name": "Woodridge (Peninsula)",
-        "style": "Tough Small Guys"
-    },
-    {
-        "name": "Cornerstone Christian Academy (Willoughby Hills)",
-        "style": "Small Town Battler"
+        "style": "Local Derbies"
     },
     {
         "name": "Ottoville",
@@ -1881,7 +1877,7 @@
     },
     {
         "name": "Clyde",
-        "style": "Small Town Battler"
+        "style": "Pourous Defense"
     },
     {
         "name": "Mount Healthy",
@@ -1930,6 +1926,10 @@
     {
         "name": "Badger (Kinsman)",
         "style": "Consistent Dominance"
+    },
+    {
+        "name": "Fairlawn",
+        "style": "Small Fish Small Pond"
     },
     {
         "name": "Heath",
@@ -2017,7 +2017,7 @@
     },
     {
         "name": "Fairless (Navarre)",
-        "style": "Even Fighter"
+        "style": "Local Derbies"
     },
     {
         "name": "Archbold",
@@ -2033,11 +2033,11 @@
     },
     {
         "name": "Olentangy Orange (Lewis Center)",
-        "style": "Slugger"
+        "style": "Superhot"
     },
     {
         "name": "Smithville",
-        "style": "Local Derbies"
+        "style": "Even Fighter"
     },
     {
         "name": "Leetonia",
@@ -2049,7 +2049,7 @@
     },
     {
         "name": "Spencerville",
-        "style": "Small Town Battler"
+        "style": "Local Derbies"
     },
     {
         "name": "Mapleton (Ashland)",

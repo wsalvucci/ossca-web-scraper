@@ -1,5 +1,6 @@
 import json
 import math
+from os import name
 
 teamData = {}
 
@@ -21,15 +22,22 @@ rankingAnalysis = {
     'blowoutGames': 0,
     'blowoutGamesPredicted': 0
 }
+
+teamAccuracy = {}
+
+confidence = []
+
+allMatches = []
+
 #Cutoff to prevent incomplete data affecting analysis
 #The first year will obviously be bad since all teams are ranked the same
 analysisYearCutoff = 2005
 
-#Cutoff for when to start tracking team data. Usefull if needed to get x-year history
+#Cutoff for when to start tracking team data. Useful if needed to get x-year history
 statsYearCutoff = 2016
 
 startYear = 2003
-endYear = 2021
+endYear = 2022
 
 #Modifier to tweak expected points per game appropriately
 expectedPointsConstant = 50
@@ -59,6 +67,15 @@ def calculateExpectedElo(rating1, rating2):
     
 
 def analyseMatch(team1, team2, score1, score2, year):
+    if team1['name'] in teamAccuracy:
+        teamAccuracy[team1['name']]['gamesPlayed'] = teamAccuracy[team1['name']]['gamesPlayed'] + 1
+    else:
+        teamAccuracy[team1['name']] = {"name": team1['name'], "gamesPlayed": 1, "gamesPredicted": 0}
+    if team2['name'] in teamAccuracy:
+        teamAccuracy[team2['name']]['gamesPlayed'] = teamAccuracy[team2['name']]['gamesPlayed'] + 1
+    else:
+        teamAccuracy[team2['name']] = {"name": team2['name'], "gamesPlayed": 1, "gamesPredicted": 0}
+
     #print('Analysing ' + team1['name'] + '(' + str(team1['offRank']) + ', ' + str(team1['defRank']) + ') vs ' + team2['name'] + '(' + str(team2['offRank']) + ', ' + str(team2['defRank']) + ')')
     expected1OffElo = calculateExpectedElo(team1['offRank'], team2['defRank'])
     expected1DefElo = calculateExpectedElo(team1['defRank'], team2['offRank'])
@@ -103,6 +120,8 @@ def analyseMatch(team1, team2, score1, score2, year):
     team1['defRank'] = calculateNewElo(team1['defRank'], team1kFactor, expected1DefElo, actual1DefElo)
     team2['offRank'] = calculateNewElo(team2['offRank'], team2kFactor, expected2OffElo, actual2OffElo)
     team2['defRank'] = calculateNewElo(team2['defRank'], team2kFactor, expected2DefElo, actual2DefElo)
+
+    print("Kfactors: ", team1kFactor, " ", team2kFactor)
 
     if team1['kFactors'][team2['name']] > 16:
         team1['kFactors'][team2['name']] = team1['kFactors'][team2['name']] - 8
@@ -158,12 +177,27 @@ def analyseMatch(team1, team2, score1, score2, year):
         if round(expected1Score) == round(expected2Score) and score1 == score2:
             print('Tie predicted!')
             rankingAnalysis['winnerPredicted'] = rankingAnalysis['winnerPredicted'] + 1
+            teamAccuracy[team1['name']]['gamesPredicted'] = teamAccuracy[team1['name']]['gamesPredicted'] + 1
+            teamAccuracy[team2['name']]['gamesPredicted'] = teamAccuracy[team2['name']]['gamesPredicted'] + 1
         if expected1Score > expected2Score and score1 > score2:
             print('Winner predicted!')
             rankingAnalysis['winnerPredicted'] = rankingAnalysis['winnerPredicted'] + 1
+            teamAccuracy[team1['name']]['gamesPredicted'] = teamAccuracy[team1['name']]['gamesPredicted'] + 1
+            teamAccuracy[team2['name']]['gamesPredicted'] = teamAccuracy[team2['name']]['gamesPredicted'] + 1
         elif expected1Score < expected2Score and score1 < score2:
             print('Winner predicted!')
             rankingAnalysis['winnerPredicted'] = rankingAnalysis['winnerPredicted'] + 1
+            teamAccuracy[team1['name']]['gamesPredicted'] = teamAccuracy[team1['name']]['gamesPredicted'] + 1
+            teamAccuracy[team2['name']]['gamesPredicted'] = teamAccuracy[team2['name']]['gamesPredicted'] + 1
+        else:
+            print('Prediction missed.')
+        
+        if score1 == score2:
+            confidence.append({"score1": round(expected1Score,1), "score2": round(expected2Score,1), "result": "tie"})
+        elif score1 > score2:
+            confidence.append({"score1": round(expected1Score,1), "score2": round(expected2Score,1), "result": "win"})
+        else:
+            confidence.append({"score1": round(expected1Score,1), "score2": round(expected2Score,1), "result": "loss"})
         
         #Seperate metric for tracking games without blowouts
         if abs(expected1Score - expected2Score) < 5:
@@ -210,6 +244,24 @@ def analyseMatch(team1, team2, score1, score2, year):
                 rankingAnalysis['blowoutGamesPredicted'] = rankingAnalysis['blowoutGamesPredicted'] + 1
         
         rankingAnalysis['pointsOff'] = rankingAnalysis['pointsOff'] + abs(expected1Score - score1) + abs(expected2Score - score2)
+
+        allMatches.append({
+            "year": year,
+            "team1": team1['name'],
+            "team2": team2['name'],
+            "team1Score": score1,
+            "team2Score": score2,
+            "expected1Score": expected1Score,
+            "expected2Score": expected2Score,
+            "team1ExpOff": expected1OffElo,
+            "team1ExpDef": expected1DefElo,
+            "team2ExpOff": expected2OffElo,
+            "team2ExpDef": expected2DefElo,
+            "team1ActOff": actual1OffElo,
+            "team1ActDef": actual1DefElo,
+            "team2ActOff": actual2OffElo,
+            "team2ActDef": actual2DefElo
+        })
 
 for x in range(startYear, endYear):
     #Each year, reset kFactors
@@ -288,4 +340,17 @@ with open('./FinalRatings.json', 'w') as f:
 
 with open('./RankingAnalysis.json', 'w') as f:
     json.dump(rankingAnalysis, f, ensure_ascii=False, indent=4)
+
+formattedAcuracyData = []
+for team in teamAccuracy:
+    formattedAcuracyData.append(teamAccuracy[team])
+
+with open('./TeamAccuracy.json', 'w') as f:
+    json.dump(formattedAcuracyData, f, ensure_ascii=False, indent=4)
+
+with open('./Confidence.json', 'w') as f:
+    json.dump(confidence, f, ensure_ascii=False, indent=4)
+
+with open('./AllMatches.json', 'w') as f:
+    json.dump(allMatches, f, ensure_ascii=False, indent=4)
             
