@@ -33,8 +33,11 @@ for x in range(startYear, endYear):
                     yearData.append({
                         'month': opp['month'],
                         'day': opp['day'],
+                        'gender': school['gender'],
                         'team1': school['name'],
+                        "team1Id:": school['id'],
                         'team2': opp['opponent'],
+                        "team2Id:": opp['id'],
                         'winner': winner,
                         'team1Score': int(opp['pointsFor']),
                         'team2Score': int(opp['pointsAgainst'])

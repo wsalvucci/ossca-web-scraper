@@ -67,14 +67,14 @@ def calculateExpectedElo(rating1, rating2):
     
 
 def analyseMatch(team1, team2, score1, score2, year):
-    if team1['name'] in teamAccuracy:
-        teamAccuracy[team1['name']]['gamesPlayed'] = teamAccuracy[team1['name']]['gamesPlayed'] + 1
+    if team1['id'] in teamAccuracy:
+        teamAccuracy[team1['id']]['gamesPlayed'] = teamAccuracy[team1['id']]['gamesPlayed'] + 1
     else:
-        teamAccuracy[team1['name']] = {"name": team1['name'], "gamesPlayed": 1, "gamesPredicted": 0}
-    if team2['name'] in teamAccuracy:
-        teamAccuracy[team2['name']]['gamesPlayed'] = teamAccuracy[team2['name']]['gamesPlayed'] + 1
+        teamAccuracy[team1['id']] = {"id": team1['id'], "gamesPlayed": 1, "gamesPredicted": 0}
+    if team2['id'] in teamAccuracy:
+        teamAccuracy[team2['id']]['gamesPlayed'] = teamAccuracy[team2['id']]['gamesPlayed'] + 1
     else:
-        teamAccuracy[team2['name']] = {"name": team2['name'], "gamesPlayed": 1, "gamesPredicted": 0}
+        teamAccuracy[team2['id']] = {"id": team2['id'], "gamesPlayed": 1, "gamesPredicted": 0}
 
     #print('Analysing ' + team1['name'] + '(' + str(team1['offRank']) + ', ' + str(team1['defRank']) + ') vs ' + team2['name'] + '(' + str(team2['offRank']) + ', ' + str(team2['defRank']) + ')')
     expected1OffElo = calculateExpectedElo(team1['offRank'], team2['defRank'])
@@ -83,13 +83,18 @@ def analyseMatch(team1, team2, score1, score2, year):
     expected2OffElo = calculateExpectedElo(team2['offRank'], team1['defRank'])
     expected2DefElo = calculateExpectedElo(team2['defRank'], team1['offRank'])
 
+    #If the expected score of a team is below 0, set it to 0
     if team2['gamesPlayed'] != 0 and team1['gamesPlayed'] != 0:
         expected1Score = expectedPoints(team1['offRank'], team2['defRank'], ((team2['pointsAgainst'] / team2['gamesPlayed']) + (team1['pointsFor'] / team1['gamesPlayed'])) / 2)
+        if expected1Score < 0:
+            expected1Score = 0
     else:
         expected1Score = startingExpectedPointsAgainst
     
     if team2['gamesPlayed'] != 0 and team1['gamesPlayed'] != 0:
         expected2Score = expectedPoints(team2['offRank'], team1['defRank'], ((team1['pointsAgainst'] / team1['gamesPlayed']) + (team2['pointsFor'] / team2['gamesPlayed'])) / 2)
+        if expected2Score < 0:
+            expected2Score = 0
     else:
         expected2Score = startingExpectedPointsAgainst
 
@@ -102,19 +107,19 @@ def analyseMatch(team1, team2, score1, score2, year):
     actual1DefElo = 1 - actual2OffElo
     actual2DefElo = 1 - actual1OffElo
 
-    print('Performance:' + team1['name'] + ' (' + str(actual1OffElo) + ', ' + str(actual1DefElo) + ') | ' + team2['name'] + ' (' + str(actual2OffElo) + ', ' + str(actual2DefElo) +')')
+    print('Performance:' + team1['id'] + ' (' + str(actual1OffElo) + ', ' + str(actual1DefElo) + ') | ' + team2['name'] + ' (' + str(actual2OffElo) + ', ' + str(actual2DefElo) +')')
 
     team1kFactor = 32
     team2kFactor = 32
-    if team2['name'] in team1['kFactors']:
-        team1kFactor = team1['kFactors'][team2['name']]
+    if team2['id'] in team1['kFactors']:
+        team1kFactor = team1['kFactors'][team2['id']]
     else:
-        team1['kFactors'][team2['name']] = 32
+        team1['kFactors'][team2['id']] = 32
     
-    if team1['name'] in team2['kFactors']:
-        team2kFactor = team2['kFactors'][team1['name']]
+    if team1['id'] in team2['kFactors']:
+        team2kFactor = team2['kFactors'][team1['id']]
     else:
-        team2['kFactors'][team1['name']] = 32
+        team2['kFactors'][team1['id']] = 32
     
     team1['offRank'] = calculateNewElo(team1['offRank'], team1kFactor, expected1OffElo, actual1OffElo)
     team1['defRank'] = calculateNewElo(team1['defRank'], team1kFactor, expected1DefElo, actual1DefElo)
@@ -123,10 +128,10 @@ def analyseMatch(team1, team2, score1, score2, year):
 
     print("Kfactors: ", team1kFactor, " ", team2kFactor)
 
-    if team1['kFactors'][team2['name']] > 16:
-        team1['kFactors'][team2['name']] = team1['kFactors'][team2['name']] - 8
-    if team2['kFactors'][team1['name']] > 16:
-        team2['kFactors'][team1['name']] = team2['kFactors'][team1['name']] - 8
+    if team1['kFactors'][team2['id']] > 16:
+        team1['kFactors'][team2['id']] = team1['kFactors'][team2['id']] - 8
+    if team2['kFactors'][team1['id']] > 16:
+        team2['kFactors'][team1['id']] = team2['kFactors'][team1['id']] - 8
 
     if year >= statsYearCutoff:
         team1['5yearGamesPlayed'] = team1['5yearGamesPlayed'] + 1
@@ -177,18 +182,18 @@ def analyseMatch(team1, team2, score1, score2, year):
         if round(expected1Score) == round(expected2Score) and score1 == score2:
             print('Tie predicted!')
             rankingAnalysis['winnerPredicted'] = rankingAnalysis['winnerPredicted'] + 1
-            teamAccuracy[team1['name']]['gamesPredicted'] = teamAccuracy[team1['name']]['gamesPredicted'] + 1
-            teamAccuracy[team2['name']]['gamesPredicted'] = teamAccuracy[team2['name']]['gamesPredicted'] + 1
+            teamAccuracy[team1['id']]['gamesPredicted'] = teamAccuracy[team1['id']]['gamesPredicted'] + 1
+            teamAccuracy[team2['id']]['gamesPredicted'] = teamAccuracy[team2['id']]['gamesPredicted'] + 1
         if expected1Score > expected2Score and score1 > score2:
             print('Winner predicted!')
             rankingAnalysis['winnerPredicted'] = rankingAnalysis['winnerPredicted'] + 1
-            teamAccuracy[team1['name']]['gamesPredicted'] = teamAccuracy[team1['name']]['gamesPredicted'] + 1
-            teamAccuracy[team2['name']]['gamesPredicted'] = teamAccuracy[team2['name']]['gamesPredicted'] + 1
+            teamAccuracy[team1['id']]['gamesPredicted'] = teamAccuracy[team1['id']]['gamesPredicted'] + 1
+            teamAccuracy[team2['id']]['gamesPredicted'] = teamAccuracy[team2['id']]['gamesPredicted'] + 1
         elif expected1Score < expected2Score and score1 < score2:
             print('Winner predicted!')
             rankingAnalysis['winnerPredicted'] = rankingAnalysis['winnerPredicted'] + 1
-            teamAccuracy[team1['name']]['gamesPredicted'] = teamAccuracy[team1['name']]['gamesPredicted'] + 1
-            teamAccuracy[team2['name']]['gamesPredicted'] = teamAccuracy[team2['name']]['gamesPredicted'] + 1
+            teamAccuracy[team1['id']]['gamesPredicted'] = teamAccuracy[team1['id']]['gamesPredicted'] + 1
+            teamAccuracy[team2['id']]['gamesPredicted'] = teamAccuracy[team2['id']]['gamesPredicted'] + 1
         else:
             print('Prediction missed.')
         
@@ -247,6 +252,9 @@ def analyseMatch(team1, team2, score1, score2, year):
 
         allMatches.append({
             "year": year,
+            "team1Id": team1['id'],
+            "team2Id": team2['id'],
+            "gender": team1['gender'],
             "team1": team1['name'],
             "team2": team2['name'],
             "team1Score": score1,
@@ -274,7 +282,9 @@ for x in range(startYear, endYear):
         for match in data:
             #print(match)
             team1 = {
+                'id': match['team1Id'],
                 'name': match['team1'],
+                'gender': match['gender'],
                 'offRank': 1500,
                 'defRank': 1500,
                 'gamesPlayed': 0,
@@ -296,7 +306,9 @@ for x in range(startYear, endYear):
                 '5yearPointDifferential': 0,
             }
             team2 = {
+                'id': match['team2Id'],
                 'name': match['team2'],
+                'gender': match['gender'],
                 'offRank': 1500,
                 'defRank': 1500,
                 'gamesPlayed': 0,
@@ -317,14 +329,14 @@ for x in range(startYear, endYear):
                 '5yearTies': 0,
                 '5yearPointDifferential': 0,
             }
-            if match['team1'] in teamData:
-                team1 = teamData[match['team1']]
+            if match['team1Id'] in teamData:
+                team1 = teamData[match['team1Id']]
             else:
-                teamData[match['team1']] = team1
-            if match['team2'] in teamData:
-                team2 = teamData[match['team2']]
+                teamData[match['team1Id']] = team1
+            if match['team2Id'] in teamData:
+                team2 = teamData[match['team2Id']]
             else:
-                teamData[match['team2']] = team2
+                teamData[match['team2Id']] = team2
             analyseMatch(team1, team2, match['team1Score'], match['team2Score'], x)
 
 #Clear kFactors to clean up output

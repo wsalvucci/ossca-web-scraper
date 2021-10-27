@@ -16,7 +16,7 @@ start_time = time.time()
 #The data that will be written to the json file at the end
 data = []
 
-year = 2021
+year = 2020
 #The first season logged in the OSSCA schedules is 2003 and the curernt schedule is 2020
 
 #Mapping object to sort months of the year
@@ -31,32 +31,51 @@ print('\n')
 #Create table for each year with the year and an array to hold all the schedules from all schools for that year
 yearData = {'year': year, 'schoolSchedules': []}
 
-for x in range(1, 2960):
-    #The highest ID in the OSSCA list is 2959 and the lowest is 1
+#Run this one to get the teams loaded in
+url = "http://ossca.org/schedules.asp?qtype=teamschedule&season=" + str(year) + "&B_G=B&team=1"
+response = requests.get(url)
+soup = BeautifulSoup(response.text, "html.parser")
 
-    #Another visual progress tracker
-    print(x)
+table = soup.find("div", {"id": "mainNormal2"}).find_all('table')
 
-    #Create a table for each school with their id, name, and an array to hold their games
-    schoolData = {'id': x, 'name': '', 'schedule': []}
+listRows = table[0].find_all('tr')
+boysRow = listRows[0].find_all('td')[1].find_all('option')
+girlsRow = listRows[1].find_all('td')[1].find_all('option')
+#Create a table for each school with their id, name, and an array to hold their games
+for team in boysRow:
+    yearData['schoolSchedules'].append({'id': int(team['value']), 'name': team.text, 'gender': 'B', 'schedule': []})
+for team in girlsRow:
+    yearData['schoolSchedules'].append({'id': int(team['value']), 'name': team.text, 'gender': 'G', 'schedule': []})
+
+maxRange = 0
+for team in yearData['schoolSchedules']:
+    if team['id'] > maxRange:
+        maxRange = team['id']
+
+print("Max team index is: " + str(maxRange))
+maxRange = maxRange + 1
+
+teamsScraped = 0
+
+async def scrapeTeam(x):
+    schoolData = next((school for school in yearData['schoolSchedules'] if school['id'] == x), None)
+    if schoolData is None:
+        print('No data found for ' + str(x))
+        return
+    print(x, schoolData['name'], schoolData['gender'])
 
     #OSSCA link to pull web pages holding schedules, get data, and parse with BeautifulSoup
     url = "http://ossca.org/schedules.asp?qtype=teamschedule&season=" + str(year) + "&B_G=B&team=" + str(x)
+    #print("Started fetch for: ", schoolData['name'], schoolData['gender'])
     response = requests.get(url)
+    #print("Completed fetch for: ", schoolData['name'], schoolData['gender'])
     soup = BeautifulSoup(response.text, "html.parser")
 
     #Get all the tables. The school's name is located in the second table and the games are located in the third table
     table = soup.find("div", {"id": "mainNormal2"}).find_all('table')
-    schoolData['name'] = table[1].tr.td.b.text
+    
     #You have to identify the games by grabbing table rows with a bgcolor attribute because terrible site design :(
     games = table[2].find_all('tr', {'bgcolor': 'e1dec2'})
-
-    if "(Boys)" in table[1].tr.td.text:
-        print(schoolData['name'] + " Boys")
-        schoolData['gender'] = "Boys"
-    elif "(Girls)" in table[1].tr.td.text:
-        print(schoolData['name'] + " Girls")
-        schoolData['gender'] = "Girls"
 
     #Make sure the team actually had games that season. Some schools have teams fold and form and have blank seasons.
     if (len(games) != 0):
@@ -77,12 +96,21 @@ for x in range(1, 2960):
                 pointsAgainst = gameData('td')[3].text[1:]
             schoolData['schedule'].append({'month': monthMap[month], 'day': int(day), 'opponent': opponent, 'result': result, 'pointsFor': pointsFor, 'pointsAgainst': pointsAgainst})
             #print(opponent, result, score, oppScore)
-        yearData['schoolSchedules'].append(schoolData)
+
+import asyncio
+tasks = []
+loop = asyncio.get_event_loop()
+
+for x in range(1, maxRange):
+    tasks.append(scrapeTeam(x))
+
+loop.run_until_complete(asyncio.wait(tasks))
+
 data.append(yearData)
 
 #Total time it took the program to run
 print("--- %s seconds ---" % (time.time() - start_time))
 
 #Write the program to scrapeData.json with some extra arguments to prettify it
-with open('./2021Data.json', 'w') as f:
+with open('./' + year + 'Data.json', 'w') as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
